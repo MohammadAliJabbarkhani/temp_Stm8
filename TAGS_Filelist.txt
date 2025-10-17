@@ -1,0 +1,9 @@
+libraries\stm8s_stdperiph_driver\src\stm8s_clk.c
+libraries\stm8s_stdperiph_driver\src\stm8s_gpio.c
+main.c
+stm8_interrupt_vector.c
+libraries\stm8s_stdperiph_driver\inc\stm8s.h
+libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h
+libraries\stm8s_stdperiph_driver\inc\stm8s_conf.h
+libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h
+..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\mods0.h

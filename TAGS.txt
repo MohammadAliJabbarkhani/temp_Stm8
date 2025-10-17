@@ -1,0 +1,1760 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADC1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2492;"	macro
+ADC1_AWCRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	337;"	macro
+ADC1_AWCRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	338;"	macro
+ADC1_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2475;"	macro
+ADC1_CR1_ADON	libraries\stm8s_stdperiph_driver\inc\stm8s.h	354;"	macro
+ADC1_CR1_CONT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	353;"	macro
+ADC1_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	328;"	macro
+ADC1_CR1_SPSEL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	352;"	macro
+ADC1_CR2_ALIGN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	358;"	macro
+ADC1_CR2_EXTSEL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	357;"	macro
+ADC1_CR2_EXTTRIG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	356;"	macro
+ADC1_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	329;"	macro
+ADC1_CR2_SCAN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	359;"	macro
+ADC1_CR3_DBUF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	361;"	macro
+ADC1_CR3_OVR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	362;"	macro
+ADC1_CR3_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	330;"	macro
+ADC1_CSR_AWD	libraries\stm8s_stdperiph_driver\inc\stm8s.h	347;"	macro
+ADC1_CSR_AWDIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	349;"	macro
+ADC1_CSR_CH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	350;"	macro
+ADC1_CSR_EOC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	346;"	macro
+ADC1_CSR_EOCIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	348;"	macro
+ADC1_CSR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	327;"	macro
+ADC1_HTRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	334;"	macro
+ADC1_HTRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	333;"	macro
+ADC1_LTRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	335;"	macro
+ADC1_LTRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	336;"	macro
+ADC1_TDRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	332;"	macro
+ADC1_TDRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	331;"	macro
+ADC1_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	322;"	typedef	typeref:struct:ADC1_struct
+ADC1_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	282;"	struct
+ADC2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2497;"	macro
+ADC2_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2476;"	macro
+ADC2_CR1_ADON	libraries\stm8s_stdperiph_driver\inc\stm8s.h	408;"	macro
+ADC2_CR1_CONT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	407;"	macro
+ADC2_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	391;"	macro
+ADC2_CR1_SPSEL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	406;"	macro
+ADC2_CR2_ALIGN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	412;"	macro
+ADC2_CR2_EXTSEL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	411;"	macro
+ADC2_CR2_EXTTRIG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	410;"	macro
+ADC2_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	392;"	macro
+ADC2_CSR_CH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	404;"	macro
+ADC2_CSR_EOC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	402;"	macro
+ADC2_CSR_EOCIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	403;"	macro
+ADC2_CSR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	390;"	macro
+ADC2_TDRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	394;"	macro
+ADC2_TDRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	393;"	macro
+ADC2_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	385;"	typedef	typeref:struct:ADC2_struct
+ADC2_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	374;"	struct
+APR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	427;"	member	struct:AWU_struct
+AREA	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2704;"	macro
+ARR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1054;"	member	struct:TIM4_struct
+ARR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1254;"	member	struct:TIM6_struct
+ARRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1122;"	member	struct:TIM5_struct
+ARRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	616;"	member	struct:TIM1_struct
+ARRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	827;"	member	struct:TIM2_struct
+ARRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	949;"	member	struct:TIM3_struct
+ARRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1123;"	member	struct:TIM5_struct
+ARRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	617;"	member	struct:TIM1_struct
+ARRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	828;"	member	struct:TIM2_struct
+ARRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	950;"	member	struct:TIM3_struct
+AWCRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	319;"	member	struct:ADC1_struct
+AWCRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	320;"	member	struct:ADC1_struct
+AWSRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	317;"	member	struct:ADC1_struct
+AWSRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	318;"	member	struct:ADC1_struct
+AWU	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2500;"	macro
+AWU_APR_APR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	451;"	macro
+AWU_APR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	436;"	macro
+AWU_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2462;"	macro
+AWU_CSR_AWUEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	448;"	macro
+AWU_CSR_AWUF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	447;"	macro
+AWU_CSR_MSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	449;"	macro
+AWU_CSR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	435;"	macro
+AWU_TBR_AWUTB	libraries\stm8s_stdperiph_driver\inc\stm8s.h	453;"	macro
+AWU_TBR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	437;"	macro
+AWU_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	430;"	typedef	typeref:struct:AWU_struct
+AWU_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	424;"	struct
+AffBit	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2678;"	macro
+BEEP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2502;"	macro
+BEEP_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2463;"	macro
+BEEP_CSR_BEEPDIV	libraries\stm8s_stdperiph_driver\inc\stm8s.h	483;"	macro
+BEEP_CSR_BEEPEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	482;"	macro
+BEEP_CSR_BEEPSEL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	481;"	macro
+BEEP_CSR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	473;"	macro
+BEEP_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	468;"	typedef	typeref:struct:BEEP_struct
+BEEP_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	464;"	struct
+BKR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	627;"	member	struct:TIM1_struct
+BRR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1755;"	member	struct:UART1_struct
+BRR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1853;"	member	struct:UART2_struct
+BRR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1961;"	member	struct:UART3_struct
+BRR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1756;"	member	struct:UART1_struct
+BRR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1854;"	member	struct:UART2_struct
+BRR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1962;"	member	struct:UART3_struct
+BTR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2179;"	member	struct:__anon5::__anon6::__anon12
+BTR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2180;"	member	struct:__anon5::__anon6::__anon12
+BYTE_0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2685;"	macro
+BYTE_1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2686;"	macro
+BYTE_2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2687;"	macro
+BYTE_3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2688;"	macro
+BitAction	libraries\stm8s_stdperiph_driver\inc\stm8s.h	221;"	typedef	typeref:enum:__anon2
+BitClr	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2706;"	macro
+BitSet	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2707;"	macro
+BitStatus	libraries\stm8s_stdperiph_driver\inc\stm8s.h	221;"	typedef	typeref:enum:__anon2
+BitVal	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2708;"	macro
+CAN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2505;"	macro
+CAN_BTR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2390;"	macro
+CAN_BTR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2391;"	macro
+CAN_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2477;"	macro
+CAN_DGR_LBKM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2266;"	macro
+CAN_DGR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2383;"	macro
+CAN_DGR_RX	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2269;"	macro
+CAN_DGR_SAMP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2268;"	macro
+CAN_DGR_SLIM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2267;"	macro
+CAN_DGR_TXM2E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2270;"	macro
+CAN_EIER_BOFIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2307;"	macro
+CAN_EIER_EPVIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2306;"	macro
+CAN_EIER_ERRIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2309;"	macro
+CAN_EIER_EWGIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2305;"	macro
+CAN_EIER_LECIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2308;"	macro
+CAN_EIER_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2387;"	macro
+CAN_ESR_BOFF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2298;"	macro
+CAN_ESR_EPVF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2297;"	macro
+CAN_ESR_EWGF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2296;"	macro
+CAN_ESR_LEC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2302;"	macro
+CAN_ESR_LEC0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2299;"	macro
+CAN_ESR_LEC1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2300;"	macro
+CAN_ESR_LEC2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2301;"	macro
+CAN_ESR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2386;"	macro
+CAN_FCR1_FACT0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2347;"	macro
+CAN_FCR1_FACT1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2348;"	macro
+CAN_FCR1_FSC00	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2354;"	macro
+CAN_FCR1_FSC01	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2355;"	macro
+CAN_FCR1_FSC10	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2356;"	macro
+CAN_FCR1_FSC11	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2357;"	macro
+CAN_FCR2_FACT2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2349;"	macro
+CAN_FCR2_FACT3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2350;"	macro
+CAN_FCR2_FSC20	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2358;"	macro
+CAN_FCR2_FSC21	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2359;"	macro
+CAN_FCR2_FSC30	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2360;"	macro
+CAN_FCR2_FSC31	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2361;"	macro
+CAN_FCR3_FACT4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2351;"	macro
+CAN_FCR3_FACT5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2352;"	macro
+CAN_FCR3_FSC40	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2362;"	macro
+CAN_FCR3_FSC41	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2363;"	macro
+CAN_FCR3_FSC50	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2364;"	macro
+CAN_FCR3_FSC51	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2365;"	macro
+CAN_FCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2394;"	macro
+CAN_FMR1_FMH0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2333;"	macro
+CAN_FMR1_FMH1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2335;"	macro
+CAN_FMR1_FMH2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2337;"	macro
+CAN_FMR1_FMH3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2339;"	macro
+CAN_FMR1_FML0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2332;"	macro
+CAN_FMR1_FML1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2334;"	macro
+CAN_FMR1_FML2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2336;"	macro
+CAN_FMR1_FML3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2338;"	macro
+CAN_FMR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2392;"	macro
+CAN_FMR2_FMH4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2342;"	macro
+CAN_FMR2_FMH5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2344;"	macro
+CAN_FMR2_FML4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2341;"	macro
+CAN_FMR2_FML5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2343;"	macro
+CAN_FMR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2393;"	macro
+CAN_IER_FFIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2260;"	macro
+CAN_IER_FMPIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2259;"	macro
+CAN_IER_FOVIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2261;"	macro
+CAN_IER_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2382;"	macro
+CAN_IER_TMEIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2258;"	macro
+CAN_IER_WKUIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2262;"	macro
+CAN_MCR_ABOM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2224;"	macro
+CAN_MCR_AWUM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2223;"	macro
+CAN_MCR_INRQ	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2218;"	macro
+CAN_MCR_NART	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2222;"	macro
+CAN_MCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2377;"	macro
+CAN_MCR_RFLM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2221;"	macro
+CAN_MCR_SLEEP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2219;"	macro
+CAN_MCR_TTCM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2225;"	macro
+CAN_MCR_TXFP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2220;"	macro
+CAN_MCSR_ABRQ	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2280;"	macro
+CAN_MCSR_ALST	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2283;"	macro
+CAN_MCSR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2398;"	macro
+CAN_MCSR_RQCP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2281;"	macro
+CAN_MCSR_TERR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2284;"	macro
+CAN_MCSR_TXOK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2282;"	macro
+CAN_MCSR_TXRQ	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2279;"	macro
+CAN_MDLCR_DLC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2286;"	macro
+CAN_MDLCR_TGT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2287;"	macro
+CAN_MDLC_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2397;"	macro
+CAN_MFMI_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2396;"	macro
+CAN_MIDR1_IDE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2290;"	macro
+CAN_MIDR1_RTR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2289;"	macro
+CAN_MSR_ERRI	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2230;"	macro
+CAN_MSR_INAK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2228;"	macro
+CAN_MSR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2378;"	macro
+CAN_MSR_RX	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2233;"	macro
+CAN_MSR_SLAK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2229;"	macro
+CAN_MSR_TX	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2232;"	macro
+CAN_MSR_WKUI	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2231;"	macro
+CAN_PSR_PS0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2274;"	macro
+CAN_PSR_PS1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2275;"	macro
+CAN_PSR_PS2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2276;"	macro
+CAN_PSR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2384;"	macro
+CAN_RECR_REC0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2322;"	macro
+CAN_RECR_REC1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2323;"	macro
+CAN_RECR_REC2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2324;"	macro
+CAN_RECR_REC3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2325;"	macro
+CAN_RECR_REC4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2326;"	macro
+CAN_RECR_REC5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2327;"	macro
+CAN_RECR_REC6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2328;"	macro
+CAN_RECR_REC7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2329;"	macro
+CAN_RECR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2389;"	macro
+CAN_RFR_FMP01	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2252;"	macro
+CAN_RFR_FOVR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2254;"	macro
+CAN_RFR_FULL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2253;"	macro
+CAN_RFR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2381;"	macro
+CAN_RFR_RFOM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2255;"	macro
+CAN_TECR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2388;"	macro
+CAN_TECR_TEC0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2312;"	macro
+CAN_TECR_TEC1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2313;"	macro
+CAN_TECR_TEC2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2314;"	macro
+CAN_TECR_TEC3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2315;"	macro
+CAN_TECR_TEC4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2316;"	macro
+CAN_TECR_TEC5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2317;"	macro
+CAN_TECR_TEC6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2318;"	macro
+CAN_TECR_TEC7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2319;"	macro
+CAN_TPR_CODE0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2244;"	macro
+CAN_TPR_LOW0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2248;"	macro
+CAN_TPR_LOW1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2249;"	macro
+CAN_TPR_LOW2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2250;"	macro
+CAN_TPR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2380;"	macro
+CAN_TPR_TME0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2245;"	macro
+CAN_TPR_TME1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2246;"	macro
+CAN_TPR_TME2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2247;"	macro
+CAN_TSR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2379;"	macro
+CAN_TSR_RQCP0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2236;"	macro
+CAN_TSR_RQCP012	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2239;"	macro
+CAN_TSR_RQCP1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2237;"	macro
+CAN_TSR_RQCP2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2238;"	macro
+CAN_TSR_TXOK0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2240;"	macro
+CAN_TSR_TXOK1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2241;"	macro
+CAN_TSR_TXOK2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2242;"	macro
+CAN_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2212;"	typedef	typeref:struct:__anon5
+CCER1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1117;"	member	struct:TIM5_struct
+CCER1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	610;"	member	struct:TIM1_struct
+CCER1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	822;"	member	struct:TIM2_struct
+CCER1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	945;"	member	struct:TIM3_struct
+CCER2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1118;"	member	struct:TIM5_struct
+CCER2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	611;"	member	struct:TIM1_struct
+CCER2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	823;"	member	struct:TIM2_struct
+CCMR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1114;"	member	struct:TIM5_struct
+CCMR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	606;"	member	struct:TIM1_struct
+CCMR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	819;"	member	struct:TIM2_struct
+CCMR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	943;"	member	struct:TIM3_struct
+CCMR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1115;"	member	struct:TIM5_struct
+CCMR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	607;"	member	struct:TIM1_struct
+CCMR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	820;"	member	struct:TIM2_struct
+CCMR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	944;"	member	struct:TIM3_struct
+CCMR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1116;"	member	struct:TIM5_struct
+CCMR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	608;"	member	struct:TIM1_struct
+CCMR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	821;"	member	struct:TIM2_struct
+CCMR4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	609;"	member	struct:TIM1_struct
+CCMR_TIxDirect_Set	libraries\stm8s_stdperiph_driver\inc\stm8s.h	739;"	macro
+CCOR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	503;"	member	struct:CLK_struct
+CCR1H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1124;"	member	struct:TIM5_struct
+CCR1H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	619;"	member	struct:TIM1_struct
+CCR1H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	829;"	member	struct:TIM2_struct
+CCR1H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	951;"	member	struct:TIM3_struct
+CCR1L	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1125;"	member	struct:TIM5_struct
+CCR1L	libraries\stm8s_stdperiph_driver\inc\stm8s.h	620;"	member	struct:TIM1_struct
+CCR1L	libraries\stm8s_stdperiph_driver\inc\stm8s.h	830;"	member	struct:TIM2_struct
+CCR1L	libraries\stm8s_stdperiph_driver\inc\stm8s.h	952;"	member	struct:TIM3_struct
+CCR2H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1126;"	member	struct:TIM5_struct
+CCR2H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	621;"	member	struct:TIM1_struct
+CCR2H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	831;"	member	struct:TIM2_struct
+CCR2H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	953;"	member	struct:TIM3_struct
+CCR2L	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1127;"	member	struct:TIM5_struct
+CCR2L	libraries\stm8s_stdperiph_driver\inc\stm8s.h	622;"	member	struct:TIM1_struct
+CCR2L	libraries\stm8s_stdperiph_driver\inc\stm8s.h	832;"	member	struct:TIM2_struct
+CCR2L	libraries\stm8s_stdperiph_driver\inc\stm8s.h	954;"	member	struct:TIM3_struct
+CCR3H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1128;"	member	struct:TIM5_struct
+CCR3H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	623;"	member	struct:TIM1_struct
+CCR3H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	833;"	member	struct:TIM2_struct
+CCR3L	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1129;"	member	struct:TIM5_struct
+CCR3L	libraries\stm8s_stdperiph_driver\inc\stm8s.h	624;"	member	struct:TIM1_struct
+CCR3L	libraries\stm8s_stdperiph_driver\inc\stm8s.h	834;"	member	struct:TIM2_struct
+CCR4H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	625;"	member	struct:TIM1_struct
+CCR4L	libraries\stm8s_stdperiph_driver\inc\stm8s.h	626;"	member	struct:TIM1_struct
+CCRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1326;"	member	struct:I2C_struct
+CCRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1325;"	member	struct:I2C_struct
+CFG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2587;"	macro
+CFG_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2478;"	macro
+CFG_GCR_AL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2429;"	macro
+CFG_GCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2418;"	macro
+CFG_GCR_SWD	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2428;"	macro
+CFG_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2412;"	typedef	typeref:struct:CFG_struct
+CFG_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2408;"	struct
+CKDIVR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	500;"	member	struct:CLK_struct
+CLK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2508;"	macro
+CLKPrescTable	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	43;"	variable
+CLK_AdjustHSICalibrationValue	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	363;"	prototype	signature:(CLK_HSITrimValue_TypeDef CLK_HSICalibrationValue)
+CLK_AdjustHSICalibrationValue	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	616;"	function	signature:(CLK_HSITrimValue_TypeDef CLK_HSICalibrationValue)
+CLK_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2459;"	macro
+CLK_CCOCmd	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	350;"	prototype	signature:(FunctionalState NewState)
+CLK_CCOCmd	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	192;"	function	signature:(FunctionalState NewState)
+CLK_CCOConfig	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	357;"	prototype	signature:(CLK_Output_TypeDef CLK_CCO)
+CLK_CCOConfig	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	439;"	function	signature:(CLK_Output_TypeDef CLK_CCO)
+CLK_CCOR_CCOBSY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	578;"	macro
+CLK_CCOR_CCOEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	581;"	macro
+CLK_CCOR_CCORDY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	579;"	macro
+CLK_CCOR_CCOSEL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	580;"	macro
+CLK_CCOR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	524;"	macro
+CLK_CKDIVR_CPUDIV	libraries\stm8s_stdperiph_driver\inc\stm8s.h	555;"	macro
+CLK_CKDIVR_HSIDIV	libraries\stm8s_stdperiph_driver\inc\stm8s.h	554;"	macro
+CLK_CKDIVR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	520;"	macro
+CLK_CMSR_CKM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	545;"	macro
+CLK_CMSR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	517;"	macro
+CLK_CSSCONFIG_DISABLE	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	58;"	enumerator	enum:__anon16
+CLK_CSSCONFIG_ENABLE	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	57;"	enumerator	enum:__anon16
+CLK_CSSCONFIG_ENABLEWITHIT	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	56;"	enumerator	enum:__anon16
+CLK_CSSConfig_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	59;"	typedef	typeref:enum:__anon16
+CLK_CSSR_AUX	libraries\stm8s_stdperiph_driver\inc\stm8s.h	575;"	macro
+CLK_CSSR_CSSD	libraries\stm8s_stdperiph_driver\inc\stm8s.h	573;"	macro
+CLK_CSSR_CSSDIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	574;"	macro
+CLK_CSSR_CSSEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	576;"	macro
+CLK_CSSR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	523;"	macro
+CLK_CURRENTCLOCKSTATE_DISABLE	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	48;"	enumerator	enum:__anon15
+CLK_CURRENTCLOCKSTATE_ENABLE	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	49;"	enumerator	enum:__anon15
+CLK_ClearITPendingBit	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	368;"	prototype	signature:(CLK_IT_TypeDef CLK_IT)
+CLK_ClearITPendingBit	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	747;"	function	signature:(CLK_IT_TypeDef CLK_IT)
+CLK_ClockSecuritySystemEnable	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	361;"	prototype	signature:(void)
+CLK_ClockSecuritySystemEnable	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	557;"	function	signature:(void)
+CLK_ClockSwitchCmd	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	351;"	prototype	signature:(FunctionalState NewState)
+CLK_ClockSwitchCmd	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	218;"	function	signature:(FunctionalState NewState)
+CLK_ClockSwitchConfig	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	355;"	prototype	signature:(CLK_SwitchMode_TypeDef CLK_SwitchMode, CLK_Source_TypeDef CLK_NewClock, FunctionalState ITState, CLK_CurrentClockState_TypeDef CLK_CurrentClockState)
+CLK_ClockSwitchConfig	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	319;"	function	signature:(CLK_SwitchMode_TypeDef CLK_SwitchMode, CLK_Source_TypeDef CLK_NewClock, FunctionalState ITState, CLK_CurrentClockState_TypeDef CLK_CurrentClockState)
+CLK_CurrentClockState_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	50;"	typedef	typeref:enum:__anon15
+CLK_DeInit	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	346;"	prototype	signature:(void)
+CLK_DeInit	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	66;"	function	signature:(void)
+CLK_ECKR_HSEEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	543;"	macro
+CLK_ECKR_HSERDY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	542;"	macro
+CLK_ECKR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	516;"	macro
+CLK_FLAG_AUX	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	152;"	enumerator	enum:__anon21
+CLK_FLAG_CCOBSY	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	153;"	enumerator	enum:__anon21
+CLK_FLAG_CCORDY	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	154;"	enumerator	enum:__anon21
+CLK_FLAG_CSSD	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	151;"	enumerator	enum:__anon21
+CLK_FLAG_HSERDY	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	148;"	enumerator	enum:__anon21
+CLK_FLAG_HSIRDY	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	147;"	enumerator	enum:__anon21
+CLK_FLAG_LSIRDY	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	146;"	enumerator	enum:__anon21
+CLK_FLAG_SWBSY	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	150;"	enumerator	enum:__anon21
+CLK_FLAG_SWIF	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	149;"	enumerator	enum:__anon21
+CLK_FastHaltWakeUpCmd	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	352;"	prototype	signature:(FunctionalState NewState)
+CLK_FastHaltWakeUpCmd	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	95;"	function	signature:(FunctionalState NewState)
+CLK_Flag_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	156;"	typedef	typeref:enum:__anon21
+CLK_GetClockFreq	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	364;"	prototype	signature:(void)
+CLK_GetClockFreq	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	579;"	function	signature:(void)
+CLK_GetFlagStatus	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	366;"	prototype	signature:(CLK_Flag_TypeDef CLK_FLAG)
+CLK_GetFlagStatus	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	648;"	function	signature:(CLK_Flag_TypeDef CLK_FLAG)
+CLK_GetITStatus	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	367;"	prototype	signature:(CLK_IT_TypeDef CLK_IT)
+CLK_GetITStatus	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	703;"	function	signature:(CLK_IT_TypeDef CLK_IT)
+CLK_GetSYSCLKSource	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	365;"	prototype	signature:(void)
+CLK_GetSYSCLKSource	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	569;"	function	signature:(void)
+CLK_HSECmd	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	347;"	prototype	signature:(FunctionalState NewState)
+CLK_HSECmd	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	119;"	function	signature:(FunctionalState NewState)
+CLK_HSICmd	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	348;"	prototype	signature:(FunctionalState NewState)
+CLK_HSICmd	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	143;"	function	signature:(FunctionalState NewState)
+CLK_HSIPrescalerConfig	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	356;"	prototype	signature:(CLK_Prescaler_TypeDef HSIPrescaler)
+CLK_HSIPrescalerConfig	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	416;"	function	signature:(CLK_Prescaler_TypeDef HSIPrescaler)
+CLK_HSITRIMR_HSITRIM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	583;"	macro
+CLK_HSITRIMR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	525;"	macro
+CLK_HSITRIMVALUE_0	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	74;"	enumerator	enum:__anon18
+CLK_HSITRIMVALUE_1	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	75;"	enumerator	enum:__anon18
+CLK_HSITRIMVALUE_2	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	76;"	enumerator	enum:__anon18
+CLK_HSITRIMVALUE_3	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	77;"	enumerator	enum:__anon18
+CLK_HSITRIMVALUE_4	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	78;"	enumerator	enum:__anon18
+CLK_HSITRIMVALUE_5	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	79;"	enumerator	enum:__anon18
+CLK_HSITRIMVALUE_6	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	80;"	enumerator	enum:__anon18
+CLK_HSITRIMVALUE_7	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	81;"	enumerator	enum:__anon18
+CLK_HSITrimValue_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	82;"	typedef	typeref:enum:__anon18
+CLK_ICKR_FHWU	libraries\stm8s_stdperiph_driver\inc\stm8s.h	538;"	macro
+CLK_ICKR_HSIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	540;"	macro
+CLK_ICKR_HSIRDY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	539;"	macro
+CLK_ICKR_LSIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	537;"	macro
+CLK_ICKR_LSIRDY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	536;"	macro
+CLK_ICKR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	515;"	macro
+CLK_ICKR_SWUAH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	535;"	macro
+CLK_ITConfig	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	358;"	prototype	signature:(CLK_IT_TypeDef CLK_IT, FunctionalState NewState)
+CLK_ITConfig	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	464;"	function	signature:(CLK_IT_TypeDef CLK_IT, FunctionalState NewState)
+CLK_IT_CSSD	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	162;"	enumerator	enum:__anon22
+CLK_IT_SWIF	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	163;"	enumerator	enum:__anon22
+CLK_IT_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	164;"	typedef	typeref:enum:__anon22
+CLK_LSICmd	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	349;"	prototype	signature:(FunctionalState NewState)
+CLK_LSICmd	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	167;"	function	signature:(FunctionalState NewState)
+CLK_OUTPUT_CPU	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	91;"	enumerator	enum:__anon19
+CLK_OUTPUT_CPUDIV16	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	95;"	enumerator	enum:__anon19
+CLK_OUTPUT_CPUDIV2	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	92;"	enumerator	enum:__anon19
+CLK_OUTPUT_CPUDIV32	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	96;"	enumerator	enum:__anon19
+CLK_OUTPUT_CPUDIV4	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	93;"	enumerator	enum:__anon19
+CLK_OUTPUT_CPUDIV64	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	97;"	enumerator	enum:__anon19
+CLK_OUTPUT_CPUDIV8	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	94;"	enumerator	enum:__anon19
+CLK_OUTPUT_HSE	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	90;"	enumerator	enum:__anon19
+CLK_OUTPUT_HSI	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	88;"	enumerator	enum:__anon19
+CLK_OUTPUT_HSIRC	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	98;"	enumerator	enum:__anon19
+CLK_OUTPUT_LSI	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	89;"	enumerator	enum:__anon19
+CLK_OUTPUT_MASTER	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	99;"	enumerator	enum:__anon19
+CLK_OUTPUT_OTHERS	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	100;"	enumerator	enum:__anon19
+CLK_Output_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	101;"	typedef	typeref:enum:__anon19
+CLK_PCKENR1_I2C	libraries\stm8s_stdperiph_driver\inc\stm8s.h	567;"	macro
+CLK_PCKENR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	521;"	macro
+CLK_PCKENR1_SPI	libraries\stm8s_stdperiph_driver\inc\stm8s.h	566;"	macro
+CLK_PCKENR1_TIM1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	557;"	macro
+CLK_PCKENR1_TIM2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	559;"	macro
+CLK_PCKENR1_TIM3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	558;"	macro
+CLK_PCKENR1_TIM4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	561;"	macro
+CLK_PCKENR1_TIM5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	560;"	macro
+CLK_PCKENR1_TIM6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	562;"	macro
+CLK_PCKENR1_UART1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	565;"	macro
+CLK_PCKENR1_UART2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	564;"	macro
+CLK_PCKENR1_UART3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	563;"	macro
+CLK_PCKENR2_ADC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	570;"	macro
+CLK_PCKENR2_AWU	libraries\stm8s_stdperiph_driver\inc\stm8s.h	571;"	macro
+CLK_PCKENR2_CAN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	569;"	macro
+CLK_PCKENR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	522;"	macro
+CLK_PERIPHERAL_ADC	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	129;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_AWU	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	128;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_CAN	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	130;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_I2C	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	113;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_SPI	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	114;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_TIMER1	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	127;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_TIMER2	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	125;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_TIMER3	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	126;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_TIMER4	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	123;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_TIMER5	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	124;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_TIMER6	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	122;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_UART1	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	116;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_UART2	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	120;"	enumerator	enum:__anon20
+CLK_PERIPHERAL_UART3	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	121;"	enumerator	enum:__anon20
+CLK_PRESCALER_CPUDIV1	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	179;"	enumerator	enum:__anon23
+CLK_PRESCALER_CPUDIV128	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	186;"	enumerator	enum:__anon23
+CLK_PRESCALER_CPUDIV16	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	183;"	enumerator	enum:__anon23
+CLK_PRESCALER_CPUDIV2	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	180;"	enumerator	enum:__anon23
+CLK_PRESCALER_CPUDIV32	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	184;"	enumerator	enum:__anon23
+CLK_PRESCALER_CPUDIV4	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	181;"	enumerator	enum:__anon23
+CLK_PRESCALER_CPUDIV64	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	185;"	enumerator	enum:__anon23
+CLK_PRESCALER_CPUDIV8	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	182;"	enumerator	enum:__anon23
+CLK_PRESCALER_HSIDIV1	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	175;"	enumerator	enum:__anon23
+CLK_PRESCALER_HSIDIV2	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	176;"	enumerator	enum:__anon23
+CLK_PRESCALER_HSIDIV4	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	177;"	enumerator	enum:__anon23
+CLK_PRESCALER_HSIDIV8	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	178;"	enumerator	enum:__anon23
+CLK_PeripheralClockConfig	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	354;"	prototype	signature:(CLK_Peripheral_TypeDef CLK_Peripheral, FunctionalState NewState)
+CLK_PeripheralClockConfig	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	272;"	function	signature:(CLK_Peripheral_TypeDef CLK_Peripheral, FunctionalState NewState)
+CLK_Peripheral_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	131;"	typedef	typeref:enum:__anon20
+CLK_Prescaler_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	187;"	typedef	typeref:enum:__anon23
+CLK_SOURCE_HSE	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	67;"	enumerator	enum:__anon17
+CLK_SOURCE_HSI	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	65;"	enumerator	enum:__anon17
+CLK_SOURCE_LSI	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	66;"	enumerator	enum:__anon17
+CLK_SWCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	519;"	macro
+CLK_SWCR_SWBSY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	552;"	macro
+CLK_SWCR_SWEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	551;"	macro
+CLK_SWCR_SWIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	550;"	macro
+CLK_SWCR_SWIF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	549;"	macro
+CLK_SWIMCCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	526;"	macro
+CLK_SWIMCCR_SWIMDIV	libraries\stm8s_stdperiph_driver\inc\stm8s.h	585;"	macro
+CLK_SWIMConfig	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	360;"	prototype	signature:(CLK_SWIMDivider_TypeDef CLK_SWIMDivider)
+CLK_SWIMConfig	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	531;"	function	signature:(CLK_SWIMDivider_TypeDef CLK_SWIMDivider)
+CLK_SWIMDIVIDER_2	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	193;"	enumerator	enum:__anon24
+CLK_SWIMDIVIDER_OTHER	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	194;"	enumerator	enum:__anon24
+CLK_SWIMDivider_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	195;"	typedef	typeref:enum:__anon24
+CLK_SWITCHMODE_AUTO	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	41;"	enumerator	enum:__anon14
+CLK_SWITCHMODE_MANUAL	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	40;"	enumerator	enum:__anon14
+CLK_SWR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	518;"	macro
+CLK_SWR_SWI	libraries\stm8s_stdperiph_driver\inc\stm8s.h	547;"	macro
+CLK_SYSCLKConfig	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	359;"	prototype	signature:(CLK_Prescaler_TypeDef CLK_Prescaler)
+CLK_SYSCLKConfig	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	507;"	function	signature:(CLK_Prescaler_TypeDef CLK_Prescaler)
+CLK_SYSCLKEmergencyClear	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	362;"	prototype	signature:(void)
+CLK_SYSCLKEmergencyClear	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	636;"	function	signature:(void)
+CLK_SlowActiveHaltWakeUpCmd	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	353;"	prototype	signature:(FunctionalState NewState)
+CLK_SlowActiveHaltWakeUpCmd	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	245;"	function	signature:(FunctionalState NewState)
+CLK_Source_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	68;"	typedef	typeref:enum:__anon17
+CLK_SwitchMode_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	42;"	typedef	typeref:enum:__anon14
+CLK_TIMEOUT	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	206;"	macro
+CLK_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	509;"	typedef	typeref:struct:CLK_struct
+CLK_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	492;"	struct
+CMSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	497;"	member	struct:CLK_struct
+CNTR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1052;"	member	struct:TIM4_struct
+CNTR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1252;"	member	struct:TIM6_struct
+CNTRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1119;"	member	struct:TIM5_struct
+CNTRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	612;"	member	struct:TIM1_struct
+CNTRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	824;"	member	struct:TIM2_struct
+CNTRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	946;"	member	struct:TIM3_struct
+CNTRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1120;"	member	struct:TIM5_struct
+CNTRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	613;"	member	struct:TIM1_struct
+CNTRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	825;"	member	struct:TIM2_struct
+CNTRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	947;"	member	struct:TIM3_struct
+CONST	libraries\stm8s_stdperiph_driver\inc\stm8s.h	116;"	macro
+CONST	libraries\stm8s_stdperiph_driver\inc\stm8s.h	122;"	macro
+CONST	libraries\stm8s_stdperiph_driver\inc\stm8s.h	136;"	macro
+CPU_CC_I1I0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1446;"	macro
+CR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1619;"	member	struct:WWDG_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1044;"	member	struct:TIM4_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1107;"	member	struct:TIM5_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1246;"	member	struct:TIM6_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1314;"	member	struct:I2C_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1459;"	member	struct:EXTI_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1500;"	member	struct:FLASH_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1682;"	member	struct:SPI_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1757;"	member	struct:UART1_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1855;"	member	struct:UART2_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1963;"	member	struct:UART3_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	258;"	member	struct:GPIO_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	306;"	member	struct:ADC1_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	377;"	member	struct:ADC2_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	598;"	member	struct:TIM1_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	810;"	member	struct:TIM2_struct
+CR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	938;"	member	struct:TIM3_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1108;"	member	struct:TIM5_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1247;"	member	struct:TIM6_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1315;"	member	struct:I2C_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1460;"	member	struct:EXTI_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1501;"	member	struct:FLASH_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1683;"	member	struct:SPI_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1758;"	member	struct:UART1_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1856;"	member	struct:UART2_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1964;"	member	struct:UART3_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	259;"	member	struct:GPIO_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	307;"	member	struct:ADC1_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	378;"	member	struct:ADC2_struct
+CR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	599;"	member	struct:TIM1_struct
+CR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1759;"	member	struct:UART1_struct
+CR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1857;"	member	struct:UART2_struct
+CR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1965;"	member	struct:UART3_struct
+CR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	308;"	member	struct:ADC1_struct
+CR4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1760;"	member	struct:UART1_struct
+CR4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1858;"	member	struct:UART2_struct
+CR4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1966;"	member	struct:UART3_struct
+CR5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1761;"	member	struct:UART1_struct
+CR5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1859;"	member	struct:UART2_struct
+CR6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1860;"	member	struct:UART2_struct
+CR6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1968;"	member	struct:UART3_struct
+CRCPR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1687;"	member	struct:SPI_struct
+CSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	305;"	member	struct:ADC1_struct
+CSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	376;"	member	struct:ADC2_struct
+CSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	426;"	member	struct:AWU_struct
+CSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	466;"	member	struct:BEEP_struct
+CSSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	502;"	member	struct:CLK_struct
+ChgBit	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2677;"	macro
+ClrBit	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2675;"	macro
+Config	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2189;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon12
+DB0RH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	284;"	member	struct:ADC1_struct
+DB0RL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	285;"	member	struct:ADC1_struct
+DB1RH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	286;"	member	struct:ADC1_struct
+DB1RL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	287;"	member	struct:ADC1_struct
+DB2RH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	288;"	member	struct:ADC1_struct
+DB2RL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	289;"	member	struct:ADC1_struct
+DB3RH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	290;"	member	struct:ADC1_struct
+DB3RL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	291;"	member	struct:ADC1_struct
+DB4RH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	292;"	member	struct:ADC1_struct
+DB4RL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	293;"	member	struct:ADC1_struct
+DB5RH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	294;"	member	struct:ADC1_struct
+DB5RL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	295;"	member	struct:ADC1_struct
+DB6RH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	296;"	member	struct:ADC1_struct
+DB6RL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	297;"	member	struct:ADC1_struct
+DB7RH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	298;"	member	struct:ADC1_struct
+DB7RL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	299;"	member	struct:ADC1_struct
+DB8RH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	300;"	member	struct:ADC1_struct
+DB8RL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	301;"	member	struct:ADC1_struct
+DB9RH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	302;"	member	struct:ADC1_struct
+DB9RL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	303;"	member	struct:ADC1_struct
+DDR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	257;"	member	struct:GPIO_struct
+DGR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2058;"	member	struct:__anon5
+DISABLE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	223;"	enumerator	enum:__anon3
+DM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2589;"	macro
+DM_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2480;"	macro
+DR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1320;"	member	struct:I2C_struct
+DR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1686;"	member	struct:SPI_struct
+DR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1754;"	member	struct:UART1_struct
+DR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1852;"	member	struct:UART2_struct
+DR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1960;"	member	struct:UART3_struct
+DRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	309;"	member	struct:ADC1_struct
+DRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	380;"	member	struct:ADC2_struct
+DRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	310;"	member	struct:ADC1_struct
+DRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	381;"	member	struct:ADC2_struct
+DTR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	628;"	member	struct:TIM1_struct
+DUKR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1510;"	member	struct:FLASH_struct
+ECKR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	495;"	member	struct:CLK_struct
+EEPROM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	115;"	macro
+EEPROM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	121;"	macro
+EEPROM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	135;"	macro
+EGR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1051;"	member	struct:TIM4_struct
+EGR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1113;"	member	struct:TIM5_struct
+EGR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1251;"	member	struct:TIM6_struct
+EGR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	605;"	member	struct:TIM1_struct
+EGR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	818;"	member	struct:TIM2_struct
+EGR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	942;"	member	struct:TIM3_struct
+EIER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2176;"	member	struct:__anon5::__anon6::__anon12
+ENABLE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	223;"	enumerator	enum:__anon3
+ERROR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	226;"	enumerator	enum:__anon4
+ESR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2175;"	member	struct:__anon5::__anon6::__anon12
+ETR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	601;"	member	struct:TIM1_struct
+EXTI	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2510;"	macro
+EXTI_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2457;"	macro
+EXTI_CR1_PAIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1482;"	macro
+EXTI_CR1_PBIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1481;"	macro
+EXTI_CR1_PCIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1480;"	macro
+EXTI_CR1_PDIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1479;"	macro
+EXTI_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1468;"	macro
+EXTI_CR2_PEIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1485;"	macro
+EXTI_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1469;"	macro
+EXTI_CR2_TLIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1484;"	macro
+EXTI_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1462;"	typedef	typeref:struct:EXTI_struct
+EXTI_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1457;"	struct
+ErrorStatus	libraries\stm8s_stdperiph_driver\inc\stm8s.h	226;"	typedef	typeref:enum:__anon4
+F0R1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2109;"	member	struct:__anon5::__anon6::__anon9
+F0R2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2110;"	member	struct:__anon5::__anon6::__anon9
+F0R3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2111;"	member	struct:__anon5::__anon6::__anon9
+F0R4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2112;"	member	struct:__anon5::__anon6::__anon9
+F0R5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2113;"	member	struct:__anon5::__anon6::__anon9
+F0R6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2114;"	member	struct:__anon5::__anon6::__anon9
+F0R7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2115;"	member	struct:__anon5::__anon6::__anon9
+F0R8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2116;"	member	struct:__anon5::__anon6::__anon9
+F1R1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2118;"	member	struct:__anon5::__anon6::__anon9
+F1R2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2119;"	member	struct:__anon5::__anon6::__anon9
+F1R3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2120;"	member	struct:__anon5::__anon6::__anon9
+F1R4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2121;"	member	struct:__anon5::__anon6::__anon9
+F1R5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2122;"	member	struct:__anon5::__anon6::__anon9
+F1R6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2123;"	member	struct:__anon5::__anon6::__anon9
+F1R7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2124;"	member	struct:__anon5::__anon6::__anon9
+F1R8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2125;"	member	struct:__anon5::__anon6::__anon9
+F2R1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2131;"	member	struct:__anon5::__anon6::__anon10
+F2R2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2132;"	member	struct:__anon5::__anon6::__anon10
+F2R3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2133;"	member	struct:__anon5::__anon6::__anon10
+F2R4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2134;"	member	struct:__anon5::__anon6::__anon10
+F2R5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2135;"	member	struct:__anon5::__anon6::__anon10
+F2R6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2136;"	member	struct:__anon5::__anon6::__anon10
+F2R7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2137;"	member	struct:__anon5::__anon6::__anon10
+F2R8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2138;"	member	struct:__anon5::__anon6::__anon10
+F3R1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2140;"	member	struct:__anon5::__anon6::__anon10
+F3R2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2141;"	member	struct:__anon5::__anon6::__anon10
+F3R3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2142;"	member	struct:__anon5::__anon6::__anon10
+F3R4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2143;"	member	struct:__anon5::__anon6::__anon10
+F3R5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2144;"	member	struct:__anon5::__anon6::__anon10
+F3R6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2145;"	member	struct:__anon5::__anon6::__anon10
+F3R7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2146;"	member	struct:__anon5::__anon6::__anon10
+F3R8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2147;"	member	struct:__anon5::__anon6::__anon10
+F4R1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2153;"	member	struct:__anon5::__anon6::__anon11
+F4R2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2154;"	member	struct:__anon5::__anon6::__anon11
+F4R3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2155;"	member	struct:__anon5::__anon6::__anon11
+F4R4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2156;"	member	struct:__anon5::__anon6::__anon11
+F4R5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2157;"	member	struct:__anon5::__anon6::__anon11
+F4R6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2158;"	member	struct:__anon5::__anon6::__anon11
+F4R7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2159;"	member	struct:__anon5::__anon6::__anon11
+F4R8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2160;"	member	struct:__anon5::__anon6::__anon11
+F5R1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2162;"	member	struct:__anon5::__anon6::__anon11
+F5R2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2163;"	member	struct:__anon5::__anon6::__anon11
+F5R3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2164;"	member	struct:__anon5::__anon6::__anon11
+F5R4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2165;"	member	struct:__anon5::__anon6::__anon11
+F5R5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2166;"	member	struct:__anon5::__anon6::__anon11
+F5R6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2167;"	member	struct:__anon5::__anon6::__anon11
+F5R7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2168;"	member	struct:__anon5::__anon6::__anon11
+F5R8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2169;"	member	struct:__anon5::__anon6::__anon11
+FALSE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	219;"	enumerator	enum:__anon1
+FAR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	112;"	macro
+FAR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	118;"	macro
+FAR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	132;"	macro
+FCR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2184;"	member	struct:__anon5::__anon6::__anon12
+FCR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2185;"	member	struct:__anon5::__anon6::__anon12
+FCR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2186;"	member	struct:__anon5::__anon6::__anon12
+FLASH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2512;"	macro
+FLASH_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2456;"	macro
+FLASH_CR1_AHALT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1534;"	macro
+FLASH_CR1_FIX	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1536;"	macro
+FLASH_CR1_HALT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1533;"	macro
+FLASH_CR1_IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1535;"	macro
+FLASH_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1518;"	macro
+FLASH_CR2_ERASE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1540;"	macro
+FLASH_CR2_FPRG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1541;"	macro
+FLASH_CR2_OPT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1538;"	macro
+FLASH_CR2_PRG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1542;"	macro
+FLASH_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1519;"	macro
+FLASH_CR2_WPRG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1539;"	macro
+FLASH_DUKR_DUK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1558;"	macro
+FLASH_DUKR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1523;"	macro
+FLASH_IAPSR_DUL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1551;"	macro
+FLASH_IAPSR_EOP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1552;"	macro
+FLASH_IAPSR_HVOFF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1550;"	macro
+FLASH_IAPSR_PUL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1553;"	macro
+FLASH_IAPSR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1521;"	macro
+FLASH_IAPSR_WR_PG_DIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1554;"	macro
+FLASH_NCR2_NERASE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1546;"	macro
+FLASH_NCR2_NFPRG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1547;"	macro
+FLASH_NCR2_NOPT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1544;"	macro
+FLASH_NCR2_NPRG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1548;"	macro
+FLASH_NCR2_NWPRG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1545;"	macro
+FLASH_NCR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1520;"	macro
+FLASH_PUKR_PUK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1556;"	macro
+FLASH_PUKR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1522;"	macro
+FLASH_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1512;"	typedef	typeref:struct:FLASH_struct
+FLASH_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1498;"	struct
+FMR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2182;"	member	struct:__anon5::__anon6::__anon12
+FMR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2183;"	member	struct:__anon5::__anon6::__anon12
+FPR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1503;"	member	struct:FLASH_struct
+FR01	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2086;"	member	struct:__anon5::__anon6::__anon8
+FR02	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2087;"	member	struct:__anon5::__anon6::__anon8
+FR03	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2088;"	member	struct:__anon5::__anon6::__anon8
+FR04	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2089;"	member	struct:__anon5::__anon6::__anon8
+FR05	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2090;"	member	struct:__anon5::__anon6::__anon8
+FR06	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2091;"	member	struct:__anon5::__anon6::__anon8
+FR07	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2092;"	member	struct:__anon5::__anon6::__anon8
+FR08	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2093;"	member	struct:__anon5::__anon6::__anon8
+FR09	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2095;"	member	struct:__anon5::__anon6::__anon8
+FR10	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2096;"	member	struct:__anon5::__anon6::__anon8
+FR11	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2097;"	member	struct:__anon5::__anon6::__anon8
+FR12	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2098;"	member	struct:__anon5::__anon6::__anon8
+FR13	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2099;"	member	struct:__anon5::__anon6::__anon8
+FR14	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2100;"	member	struct:__anon5::__anon6::__anon8
+FR15	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2101;"	member	struct:__anon5::__anon6::__anon8
+FR16	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2102;"	member	struct:__anon5::__anon6::__anon8
+FREQR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1316;"	member	struct:I2C_struct
+Filter	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2104;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon8
+Filter01	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2127;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon9
+Filter23	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2149;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon10
+Filter45	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2171;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon11
+FlagStatus	libraries\stm8s_stdperiph_driver\inc\stm8s.h	221;"	typedef	typeref:enum:__anon2
+FunctionalState	libraries\stm8s_stdperiph_driver\inc\stm8s.h	223;"	typedef	typeref:enum:__anon3
+GCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2410;"	member	struct:CFG_struct
+GPIOA	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2516;"	macro
+GPIOA_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2447;"	macro
+GPIOB	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2518;"	macro
+GPIOB_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2448;"	macro
+GPIOC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2520;"	macro
+GPIOC_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2449;"	macro
+GPIOD	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2522;"	macro
+GPIOD_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2450;"	macro
+GPIOE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2524;"	macro
+GPIOE_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2451;"	macro
+GPIOF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2526;"	macro
+GPIOF_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2452;"	macro
+GPIOG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2530;"	macro
+GPIOG_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2453;"	macro
+GPIOH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2535;"	macro
+GPIOH_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2454;"	macro
+GPIOI	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2536;"	macro
+GPIOI_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2455;"	macro
+GPIO_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	269;"	macro
+GPIO_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	270;"	macro
+GPIO_DDR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	268;"	macro
+GPIO_DeInit	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	133;"	prototype	signature:(GPIO_TypeDef* GPIOx)
+GPIO_DeInit	libraries\stm8s_stdperiph_driver\src\stm8s_gpio.c	47;"	function	signature:(GPIO_TypeDef* GPIOx)
+GPIO_ExternalPullUpConfig	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	142;"	prototype	signature:(GPIO_TypeDef* GPIOx, GPIO_Pin_TypeDef GPIO_Pin, FunctionalState NewState)
+GPIO_ExternalPullUpConfig	libraries\stm8s_stdperiph_driver\src\stm8s_gpio.c	219;"	function	signature:(GPIO_TypeDef* GPIOx, GPIO_Pin_TypeDef GPIO_Pin, FunctionalState NewState)
+GPIO_Init	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	134;"	prototype	signature:(GPIO_TypeDef* GPIOx, GPIO_Pin_TypeDef GPIO_Pin, GPIO_Mode_TypeDef GPIO_Mode)
+GPIO_Init	libraries\stm8s_stdperiph_driver\src\stm8s_gpio.c	65;"	function	signature:(GPIO_TypeDef* GPIOx, GPIO_Pin_TypeDef GPIO_Pin, GPIO_Mode_TypeDef GPIO_Mode)
+GPIO_MODE_IN_FL_IT	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	52;"	enumerator	enum:__anon25
+GPIO_MODE_IN_FL_NO_IT	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	50;"	enumerator	enum:__anon25
+GPIO_MODE_IN_PU_IT	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	53;"	enumerator	enum:__anon25
+GPIO_MODE_IN_PU_NO_IT	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	51;"	enumerator	enum:__anon25
+GPIO_MODE_OUT_OD_HIZ_FAST	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	58;"	enumerator	enum:__anon25
+GPIO_MODE_OUT_OD_HIZ_SLOW	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	60;"	enumerator	enum:__anon25
+GPIO_MODE_OUT_OD_LOW_FAST	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	54;"	enumerator	enum:__anon25
+GPIO_MODE_OUT_OD_LOW_SLOW	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	56;"	enumerator	enum:__anon25
+GPIO_MODE_OUT_PP_HIGH_FAST	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	59;"	enumerator	enum:__anon25
+GPIO_MODE_OUT_PP_HIGH_SLOW	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	61;"	enumerator	enum:__anon25
+GPIO_MODE_OUT_PP_LOW_FAST	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	55;"	enumerator	enum:__anon25
+GPIO_MODE_OUT_PP_LOW_SLOW	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	57;"	enumerator	enum:__anon25
+GPIO_Mode_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	62;"	typedef	typeref:enum:__anon25
+GPIO_ODR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	267;"	macro
+GPIO_PIN_0	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	71;"	enumerator	enum:__anon26
+GPIO_PIN_1	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	72;"	enumerator	enum:__anon26
+GPIO_PIN_2	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	73;"	enumerator	enum:__anon26
+GPIO_PIN_3	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	74;"	enumerator	enum:__anon26
+GPIO_PIN_4	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	75;"	enumerator	enum:__anon26
+GPIO_PIN_5	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	76;"	enumerator	enum:__anon26
+GPIO_PIN_6	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	77;"	enumerator	enum:__anon26
+GPIO_PIN_7	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	78;"	enumerator	enum:__anon26
+GPIO_PIN_ALL	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	81;"	enumerator	enum:__anon26
+GPIO_PIN_HNIB	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	80;"	enumerator	enum:__anon26
+GPIO_PIN_LNIB	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	79;"	enumerator	enum:__anon26
+GPIO_Pin_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	82;"	typedef	typeref:enum:__anon26
+GPIO_ReadInputData	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	139;"	prototype	signature:(GPIO_TypeDef* GPIOx)
+GPIO_ReadInputData	libraries\stm8s_stdperiph_driver\src\stm8s_gpio.c	196;"	function	signature:(GPIO_TypeDef* GPIOx)
+GPIO_ReadInputPin	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	141;"	prototype	signature:(GPIO_TypeDef* GPIOx, GPIO_Pin_TypeDef GPIO_Pin)
+GPIO_ReadInputPin	libraries\stm8s_stdperiph_driver\src\stm8s_gpio.c	207;"	function	signature:(GPIO_TypeDef* GPIOx, GPIO_Pin_TypeDef GPIO_Pin)
+GPIO_ReadOutputData	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	140;"	prototype	signature:(GPIO_TypeDef* GPIOx)
+GPIO_ReadOutputData	libraries\stm8s_stdperiph_driver\src\stm8s_gpio.c	185;"	function	signature:(GPIO_TypeDef* GPIOx)
+GPIO_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	261;"	typedef	typeref:struct:GPIO_struct
+GPIO_Write	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	135;"	prototype	signature:(GPIO_TypeDef* GPIOx, uint8_t PortVal)
+GPIO_Write	libraries\stm8s_stdperiph_driver\src\stm8s_gpio.c	135;"	function	signature:(GPIO_TypeDef* GPIOx, uint8_t PortVal)
+GPIO_WriteHigh	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	136;"	prototype	signature:(GPIO_TypeDef* GPIOx, GPIO_Pin_TypeDef PortPins)
+GPIO_WriteHigh	libraries\stm8s_stdperiph_driver\src\stm8s_gpio.c	148;"	function	signature:(GPIO_TypeDef* GPIOx, GPIO_Pin_TypeDef PortPins)
+GPIO_WriteLow	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	137;"	prototype	signature:(GPIO_TypeDef* GPIOx, GPIO_Pin_TypeDef PortPins)
+GPIO_WriteLow	libraries\stm8s_stdperiph_driver\src\stm8s_gpio.c	161;"	function	signature:(GPIO_TypeDef* GPIOx, GPIO_Pin_TypeDef PortPins)
+GPIO_WriteReverse	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	138;"	prototype	signature:(GPIO_TypeDef* GPIOx, GPIO_Pin_TypeDef PortPins)
+GPIO_WriteReverse	libraries\stm8s_stdperiph_driver\src\stm8s_gpio.c	174;"	function	signature:(GPIO_TypeDef* GPIOx, GPIO_Pin_TypeDef PortPins)
+GPIO_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	253;"	struct
+GTR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1762;"	member	struct:UART1_struct
+GTR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1861;"	member	struct:UART2_struct
+HSE_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	101;"	macro
+HSE_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	99;"	macro
+HSIDivFactor	libraries\stm8s_stdperiph_driver\src\stm8s_clk.c	42;"	variable
+HSITRIMR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	506;"	member	struct:CLK_struct
+HSI_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	108;"	macro
+HTRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	313;"	member	struct:ADC1_struct
+HTRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	314;"	member	struct:ADC1_struct
+I2C	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2545;"	macro
+I2C_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2465;"	macro
+I2C_CCRH_CCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1406;"	macro
+I2C_CCRH_DUTY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1405;"	macro
+I2C_CCRH_FS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1404;"	macro
+I2C_CCRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1347;"	macro
+I2C_CCRL_CCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1402;"	macro
+I2C_CCRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1346;"	macro
+I2C_CR1_ENGC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1359;"	macro
+I2C_CR1_NOSTRETCH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1358;"	macro
+I2C_CR1_PE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1360;"	macro
+I2C_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1336;"	macro
+I2C_CR2_ACK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1364;"	macro
+I2C_CR2_POS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1363;"	macro
+I2C_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1337;"	macro
+I2C_CR2_START	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1366;"	macro
+I2C_CR2_STOP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1365;"	macro
+I2C_CR2_SWRST	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1362;"	macro
+I2C_DR_DR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1377;"	macro
+I2C_DR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1341;"	macro
+I2C_FREQR_FREQ	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1368;"	macro
+I2C_FREQR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1338;"	macro
+I2C_ITR_ITBUFEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1398;"	macro
+I2C_ITR_ITERREN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1400;"	macro
+I2C_ITR_ITEVTEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1399;"	macro
+I2C_ITR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1345;"	macro
+I2C_OARH_ADD	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1375;"	macro
+I2C_OARH_ADDCONF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1374;"	macro
+I2C_OARH_ADDMODE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1373;"	macro
+I2C_OARH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1340;"	macro
+I2C_OARL_ADD	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1370;"	macro
+I2C_OARL_ADD0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1371;"	macro
+I2C_OARL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1339;"	macro
+I2C_SR1_ADD10	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1382;"	macro
+I2C_SR1_ADDR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1384;"	macro
+I2C_SR1_BTF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1383;"	macro
+I2C_SR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1342;"	macro
+I2C_SR1_RXNE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1380;"	macro
+I2C_SR1_SB	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1385;"	macro
+I2C_SR1_STOPF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1381;"	macro
+I2C_SR1_TXE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1379;"	macro
+I2C_SR2_AF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1389;"	macro
+I2C_SR2_ARLO	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1390;"	macro
+I2C_SR2_BERR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1391;"	macro
+I2C_SR2_OVR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1388;"	macro
+I2C_SR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1343;"	macro
+I2C_SR2_WUFH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1387;"	macro
+I2C_SR3_BUSY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1395;"	macro
+I2C_SR3_GENCALL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1393;"	macro
+I2C_SR3_MSL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1396;"	macro
+I2C_SR3_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1344;"	macro
+I2C_SR3_TRA	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1394;"	macro
+I2C_TRISER_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1348;"	macro
+I2C_TRISER_TRISE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1408;"	macro
+I2C_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1330;"	typedef	typeref:struct:I2C_struct
+I2C_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1312;"	struct
+IAPSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1505;"	member	struct:FLASH_struct
+ICKR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	494;"	member	struct:CLK_struct
+ICR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1684;"	member	struct:SPI_struct
+IDR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	256;"	member	struct:GPIO_struct
+IER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1049;"	member	struct:TIM4_struct
+IER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1110;"	member	struct:TIM5_struct
+IER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1249;"	member	struct:TIM6_struct
+IER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2057;"	member	struct:__anon5
+IER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	602;"	member	struct:TIM1_struct
+IER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	815;"	member	struct:TIM2_struct
+IER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	939;"	member	struct:TIM3_struct
+INTERRUPT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2655;"	macro
+INTERRUPT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2657;"	macro
+INTERRUPT_HANDLER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2633;"	macro
+INTERRUPT_HANDLER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2638;"	macro
+INTERRUPT_HANDLER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2645;"	macro
+INTERRUPT_HANDLER_TRAP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2634;"	macro
+INTERRUPT_HANDLER_TRAP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2639;"	macro
+INTERRUPT_HANDLER_TRAP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2648;"	macro
+IN_RAM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	159;"	macro
+IN_RAM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	161;"	macro
+IN_RAM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	163;"	macro
+IN_RAM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	166;"	macro
+ISPR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1421;"	member	struct:ITC_struct
+ISPR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1422;"	member	struct:ITC_struct
+ISPR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1423;"	member	struct:ITC_struct
+ISPR4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1424;"	member	struct:ITC_struct
+ISPR5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1425;"	member	struct:ITC_struct
+ISPR6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1426;"	member	struct:ITC_struct
+ISPR7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1427;"	member	struct:ITC_struct
+ISPR8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1428;"	member	struct:ITC_struct
+IS_CLK_CSSCONFIG_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	234;"	macro
+IS_CLK_CURRENTCLOCKSTATE_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	228;"	macro
+IS_CLK_FLAG_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	295;"	macro
+IS_CLK_HSIPRESCALER_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	313;"	macro
+IS_CLK_HSITRIMVALUE_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	248;"	macro
+IS_CLK_IT_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	308;"	macro
+IS_CLK_OUTPUT_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	260;"	macro
+IS_CLK_PERIPHERAL_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	277;"	macro
+IS_CLK_PRESCALER_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	321;"	macro
+IS_CLK_SOURCE_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	241;"	macro
+IS_CLK_SWIMDIVIDER_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	337;"	macro
+IS_CLK_SWITCHMODE_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	223;"	macro
+IS_FUNCTIONALSTATE_OK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	224;"	macro
+IS_GPIO_MODE_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	104;"	macro
+IS_GPIO_PIN_OK	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	122;"	macro
+IS_STATE_VALUE_OK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2691;"	macro
+ITC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2585;"	macro
+ITC_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2479;"	macro
+ITC_SPRX_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1436;"	macro
+ITC_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1430;"	typedef	typeref:struct:ITC_struct
+ITC_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1419;"	struct
+ITR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1324;"	member	struct:I2C_struct
+ITStatus	libraries\stm8s_stdperiph_driver\inc\stm8s.h	221;"	typedef	typeref:enum:__anon2
+IWDG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2542;"	macro
+IWDG_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2461;"	macro
+IWDG_PR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1605;"	macro
+IWDG_RLR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1606;"	macro
+IWDG_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1599;"	typedef	typeref:struct:IWDG_struct
+IWDG_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1593;"	struct
+KR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1595;"	member	struct:IWDG_struct
+LSI_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	109;"	macro
+LTRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	315;"	member	struct:ADC1_struct
+LTRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	316;"	member	struct:ADC1_struct
+MCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2052;"	member	struct:__anon5
+MCSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2065;"	member	struct:__anon5::__anon6::__anon7
+MDAR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2071;"	member	struct:__anon5::__anon6::__anon7
+MDAR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2199;"	member	struct:__anon5::__anon6::__anon13
+MDAR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2072;"	member	struct:__anon5::__anon6::__anon7
+MDAR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2200;"	member	struct:__anon5::__anon6::__anon13
+MDAR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2073;"	member	struct:__anon5::__anon6::__anon7
+MDAR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2201;"	member	struct:__anon5::__anon6::__anon13
+MDAR4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2074;"	member	struct:__anon5::__anon6::__anon7
+MDAR4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2202;"	member	struct:__anon5::__anon6::__anon13
+MDAR5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2075;"	member	struct:__anon5::__anon6::__anon7
+MDAR5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2203;"	member	struct:__anon5::__anon6::__anon13
+MDAR6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2076;"	member	struct:__anon5::__anon6::__anon7
+MDAR6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2204;"	member	struct:__anon5::__anon6::__anon13
+MDAR7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2077;"	member	struct:__anon5::__anon6::__anon7
+MDAR7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2205;"	member	struct:__anon5::__anon6::__anon13
+MDAR8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2078;"	member	struct:__anon5::__anon6::__anon7
+MDAR8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2206;"	member	struct:__anon5::__anon6::__anon13
+MDLCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2066;"	member	struct:__anon5::__anon6::__anon7
+MDLCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2194;"	member	struct:__anon5::__anon6::__anon13
+MEMCPY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	126;"	macro
+MEMCPY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	129;"	macro
+MFMI	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2193;"	member	struct:__anon5::__anon6::__anon13
+MIDR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2067;"	member	struct:__anon5::__anon6::__anon7
+MIDR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2195;"	member	struct:__anon5::__anon6::__anon13
+MIDR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2068;"	member	struct:__anon5::__anon6::__anon7
+MIDR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2196;"	member	struct:__anon5::__anon6::__anon13
+MIDR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2069;"	member	struct:__anon5::__anon6::__anon7
+MIDR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2197;"	member	struct:__anon5::__anon6::__anon13
+MIDR4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2070;"	member	struct:__anon5::__anon6::__anon7
+MIDR4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2198;"	member	struct:__anon5::__anon6::__anon13
+MSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2053;"	member	struct:__anon5
+MTSRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2080;"	member	struct:__anon5::__anon6::__anon7
+MTSRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2208;"	member	struct:__anon5::__anon6::__anon13
+MTSRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2079;"	member	struct:__anon5::__anon6::__anon7
+MTSRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2207;"	member	struct:__anon5::__anon6::__anon13
+MskBit	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2681;"	macro
+NCR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1502;"	member	struct:FLASH_struct
+NEAR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	113;"	macro
+NEAR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	119;"	macro
+NEAR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	133;"	macro
+NFPR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1504;"	member	struct:FLASH_struct
+NOPT1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1572;"	member	struct:OPT_struct
+NOPT2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1574;"	member	struct:OPT_struct
+NOPT3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1576;"	member	struct:OPT_struct
+NOPT4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1578;"	member	struct:OPT_struct
+NOPT5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1580;"	member	struct:OPT_struct
+NOPT7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1584;"	member	struct:OPT_struct
+NonHandledInterrupt	stm8_interrupt_vector.c	12;"	function	signature:(void)
+OARH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1318;"	member	struct:I2C_struct
+OARL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1317;"	member	struct:I2C_struct
+ODR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	255;"	member	struct:GPIO_struct
+OISR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	629;"	member	struct:TIM1_struct
+OPT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2514;"	macro
+OPT0	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1570;"	member	struct:OPT_struct
+OPT1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1571;"	member	struct:OPT_struct
+OPT2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1573;"	member	struct:OPT_struct
+OPT3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1575;"	member	struct:OPT_struct
+OPT4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1577;"	member	struct:OPT_struct
+OPT5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1579;"	member	struct:OPT_struct
+OPT7	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1583;"	member	struct:OPT_struct
+OPT_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2446;"	macro
+OPT_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1586;"	typedef	typeref:struct:OPT_struct
+OPT_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1568;"	struct
+PCKENR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	501;"	member	struct:CLK_struct
+PCKENR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	504;"	member	struct:CLK_struct
+PR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1596;"	member	struct:IWDG_struct
+PSCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1053;"	member	struct:TIM4_struct
+PSCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1121;"	member	struct:TIM5_struct
+PSCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1253;"	member	struct:TIM6_struct
+PSCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1763;"	member	struct:UART1_struct
+PSCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1862;"	member	struct:UART2_struct
+PSCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	826;"	member	struct:TIM2_struct
+PSCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	948;"	member	struct:TIM3_struct
+PSCRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	614;"	member	struct:TIM1_struct
+PSCRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	615;"	member	struct:TIM1_struct
+PSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2059;"	member	struct:__anon5
+PUKR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1508;"	member	struct:FLASH_struct
+Page	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2211;"	member	struct:__anon5	typeref:union:__anon5::__anon6
+PointerAttr	libraries\stm8s_stdperiph_driver\inc\stm8s.h	146;"	macro
+PointerAttr	libraries\stm8s_stdperiph_driver\inc\stm8s.h	149;"	macro
+RCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	618;"	member	struct:TIM1_struct
+RECR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2178;"	member	struct:__anon5::__anon6::__anon12
+RESERVED	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1967;"	member	struct:UART3_struct
+RESERVED	libraries\stm8s_stdperiph_driver\inc\stm8s.h	304;"	member	struct:ADC1_struct
+RESERVED	libraries\stm8s_stdperiph_driver\inc\stm8s.h	379;"	member	struct:ADC2_struct
+RESERVED	libraries\stm8s_stdperiph_driver\inc\stm8s.h	496;"	member	struct:CLK_struct
+RESERVED1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1046;"	member	struct:TIM4_struct
+RESERVED1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1319;"	member	struct:I2C_struct
+RESERVED1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1506;"	member	struct:FLASH_struct
+RESERVED1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1581;"	member	struct:OPT_struct
+RESERVED1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	505;"	member	struct:CLK_struct
+RESERVED1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	812;"	member	struct:TIM2_struct
+RESERVED2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1047;"	member	struct:TIM4_struct
+RESERVED2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1328;"	member	struct:I2C_struct
+RESERVED2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1507;"	member	struct:FLASH_struct
+RESERVED2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1582;"	member	struct:OPT_struct
+RESERVED2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	813;"	member	struct:TIM2_struct
+RESERVED3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1509;"	member	struct:FLASH_struct
+RESET	libraries\stm8s_stdperiph_driver\inc\stm8s.h	221;"	enumerator	enum:__anon2
+RFR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2056;"	member	struct:__anon5
+RLR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1597;"	member	struct:IWDG_struct
+RST	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2539;"	macro
+RST_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2458;"	macro
+RST_SR_EMCF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1665;"	macro
+RST_SR_ILLOPF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1667;"	macro
+RST_SR_IWDGF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1668;"	macro
+RST_SR_SWIMF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1666;"	macro
+RST_SR_WWDGF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1669;"	macro
+RST_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1659;"	typedef	typeref:struct:RST_struct
+RST_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1655;"	struct
+RXCRCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1688;"	member	struct:SPI_struct
+Reserved1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2181;"	member	struct:__anon5::__anon6::__anon12
+Reserved2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2187;"	member	struct:__anon5::__anon6::__anon12
+RxFIFO	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2210;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon13
+S16_MAX	libraries\stm8s_stdperiph_driver\inc\stm8s.h	232;"	macro
+S16_MIN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	233;"	macro
+S32_MAX	libraries\stm8s_stdperiph_driver\inc\stm8s.h	235;"	macro
+S32_MIN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	236;"	macro
+S8_MAX	libraries\stm8s_stdperiph_driver\inc\stm8s.h	229;"	macro
+S8_MIN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	230;"	macro
+SET	libraries\stm8s_stdperiph_driver\inc\stm8s.h	221;"	enumerator	enum:__anon2
+SMCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1109;"	member	struct:TIM5_struct
+SMCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1248;"	member	struct:TIM6_struct
+SMCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	600;"	member	struct:TIM1_struct
+SPI	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2544;"	macro
+SPI_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2464;"	macro
+SPI_CR1_BR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1716;"	macro
+SPI_CR1_CPHA	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1719;"	macro
+SPI_CR1_CPOL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1718;"	macro
+SPI_CR1_LSBFIRST	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1714;"	macro
+SPI_CR1_MSTR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1717;"	macro
+SPI_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1697;"	macro
+SPI_CR1_SPE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1715;"	macro
+SPI_CR2_BDM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1721;"	macro
+SPI_CR2_BDOE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1722;"	macro
+SPI_CR2_CRCEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1723;"	macro
+SPI_CR2_CRCNEXT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1724;"	macro
+SPI_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1698;"	macro
+SPI_CR2_RXONLY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1725;"	macro
+SPI_CR2_SSI	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1727;"	macro
+SPI_CR2_SSM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1726;"	macro
+SPI_CRCPR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1702;"	macro
+SPI_DR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1701;"	macro
+SPI_ICR_ERRIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1731;"	macro
+SPI_ICR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1699;"	macro
+SPI_ICR_RXEI	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1730;"	macro
+SPI_ICR_TXEI	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1729;"	macro
+SPI_ICR_WKIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1732;"	macro
+SPI_RXCRCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1703;"	macro
+SPI_SR_BSY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1734;"	macro
+SPI_SR_CRCERR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1737;"	macro
+SPI_SR_MODF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1736;"	macro
+SPI_SR_OVR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1735;"	macro
+SPI_SR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1700;"	macro
+SPI_SR_RXNE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1740;"	macro
+SPI_SR_TXE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1739;"	macro
+SPI_SR_WKUP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1738;"	macro
+SPI_TXCRCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1704;"	macro
+SPI_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1691;"	typedef	typeref:struct:SPI_struct
+SPI_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1680;"	struct
+SR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1657;"	member	struct:RST_struct
+SR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1685;"	member	struct:SPI_struct
+SR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1753;"	member	struct:UART1_struct
+SR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1851;"	member	struct:UART2_struct
+SR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1959;"	member	struct:UART3_struct
+SR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1050;"	member	struct:TIM4_struct
+SR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1111;"	member	struct:TIM5_struct
+SR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1250;"	member	struct:TIM6_struct
+SR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1321;"	member	struct:I2C_struct
+SR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	603;"	member	struct:TIM1_struct
+SR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	816;"	member	struct:TIM2_struct
+SR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	940;"	member	struct:TIM3_struct
+SR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1112;"	member	struct:TIM5_struct
+SR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1322;"	member	struct:I2C_struct
+SR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	604;"	member	struct:TIM1_struct
+SR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	817;"	member	struct:TIM2_struct
+SR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	941;"	member	struct:TIM3_struct
+SR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1323;"	member	struct:I2C_struct
+STM8S003	libraries\stm8s_stdperiph_driver\inc\stm8s.h	42;"	macro
+STRINGVECTOR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2643;"	macro
+SUCCESS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	226;"	enumerator	enum:__anon4
+SWCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	499;"	member	struct:CLK_struct
+SWIMCCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	507;"	member	struct:CLK_struct
+SWR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	498;"	member	struct:CLK_struct
+SetBit	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2674;"	macro
+TBR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	428;"	member	struct:AWU_struct
+TDRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	311;"	member	struct:ADC1_struct
+TDRH	libraries\stm8s_stdperiph_driver\inc\stm8s.h	382;"	member	struct:ADC2_struct
+TDRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	312;"	member	struct:ADC1_struct
+TDRL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	383;"	member	struct:ADC2_struct
+TECR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2177;"	member	struct:__anon5::__anon6::__anon12
+TIM1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2561;"	macro
+TIM1_ARRH_ARR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	765;"	macro
+TIM1_ARRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	655;"	macro
+TIM1_ARRL_ARR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	766;"	macro
+TIM1_ARRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	656;"	macro
+TIM1_BKR_AOE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	783;"	macro
+TIM1_BKR_BKE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	785;"	macro
+TIM1_BKR_BKP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	784;"	macro
+TIM1_BKR_LOCK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	788;"	macro
+TIM1_BKR_MOE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	782;"	macro
+TIM1_BKR_OSSI	libraries\stm8s_stdperiph_driver\inc\stm8s.h	787;"	macro
+TIM1_BKR_OSSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	786;"	macro
+TIM1_BKR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	666;"	macro
+TIM1_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2469;"	macro
+TIM1_CCER1_CC1E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	748;"	macro
+TIM1_CCER1_CC1NE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	746;"	macro
+TIM1_CCER1_CC1NP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	745;"	macro
+TIM1_CCER1_CC1P	libraries\stm8s_stdperiph_driver\inc\stm8s.h	747;"	macro
+TIM1_CCER1_CC2E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	744;"	macro
+TIM1_CCER1_CC2NE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	742;"	macro
+TIM1_CCER1_CC2NP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	741;"	macro
+TIM1_CCER1_CC2P	libraries\stm8s_stdperiph_driver\inc\stm8s.h	743;"	macro
+TIM1_CCER1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	649;"	macro
+TIM1_CCER2_CC3E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	755;"	macro
+TIM1_CCER2_CC3NE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	753;"	macro
+TIM1_CCER2_CC3NP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	752;"	macro
+TIM1_CCER2_CC3P	libraries\stm8s_stdperiph_driver\inc\stm8s.h	754;"	macro
+TIM1_CCER2_CC4E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	751;"	macro
+TIM1_CCER2_CC4P	libraries\stm8s_stdperiph_driver\inc\stm8s.h	750;"	macro
+TIM1_CCER2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	650;"	macro
+TIM1_CCMR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	645;"	macro
+TIM1_CCMR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	646;"	macro
+TIM1_CCMR3_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	647;"	macro
+TIM1_CCMR4_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	648;"	macro
+TIM1_CCMR_CCxS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	737;"	macro
+TIM1_CCMR_ICxF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	733;"	macro
+TIM1_CCMR_ICxPSC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	732;"	macro
+TIM1_CCMR_OCM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	734;"	macro
+TIM1_CCMR_OCxFE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	736;"	macro
+TIM1_CCMR_OCxPE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	735;"	macro
+TIM1_CCR1H_CCR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	770;"	macro
+TIM1_CCR1H_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	658;"	macro
+TIM1_CCR1L_CCR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	771;"	macro
+TIM1_CCR1L_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	659;"	macro
+TIM1_CCR2H_CCR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	773;"	macro
+TIM1_CCR2H_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	660;"	macro
+TIM1_CCR2L_CCR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	774;"	macro
+TIM1_CCR2L_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	661;"	macro
+TIM1_CCR3H_CCR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	776;"	macro
+TIM1_CCR3H_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	662;"	macro
+TIM1_CCR3L_CCR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	777;"	macro
+TIM1_CCR3L_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	663;"	macro
+TIM1_CCR4H_CCR4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	779;"	macro
+TIM1_CCR4H_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	664;"	macro
+TIM1_CCR4L_CCR4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	780;"	macro
+TIM1_CCR4L_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	665;"	macro
+TIM1_CNTRH_CNT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	757;"	macro
+TIM1_CNTRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	651;"	macro
+TIM1_CNTRL_CNT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	759;"	macro
+TIM1_CNTRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	652;"	macro
+TIM1_CR1_ARPE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	678;"	macro
+TIM1_CR1_CEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	684;"	macro
+TIM1_CR1_CMS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	679;"	macro
+TIM1_CR1_DIR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	680;"	macro
+TIM1_CR1_OPM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	681;"	macro
+TIM1_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	637;"	macro
+TIM1_CR1_UDIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	683;"	macro
+TIM1_CR1_URS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	682;"	macro
+TIM1_CR2_CCPC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	689;"	macro
+TIM1_CR2_COMS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	688;"	macro
+TIM1_CR2_MMS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	687;"	macro
+TIM1_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	638;"	macro
+TIM1_CR2_TI1S	libraries\stm8s_stdperiph_driver\inc\stm8s.h	686;"	macro
+TIM1_DTR_DTG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	790;"	macro
+TIM1_DTR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	667;"	macro
+TIM1_EGR_BG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	723;"	macro
+TIM1_EGR_CC1G	libraries\stm8s_stdperiph_driver\inc\stm8s.h	729;"	macro
+TIM1_EGR_CC2G	libraries\stm8s_stdperiph_driver\inc\stm8s.h	728;"	macro
+TIM1_EGR_CC3G	libraries\stm8s_stdperiph_driver\inc\stm8s.h	727;"	macro
+TIM1_EGR_CC4G	libraries\stm8s_stdperiph_driver\inc\stm8s.h	726;"	macro
+TIM1_EGR_COMG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	725;"	macro
+TIM1_EGR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	644;"	macro
+TIM1_EGR_TG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	724;"	macro
+TIM1_EGR_UG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	730;"	macro
+TIM1_ETR_ECE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	696;"	macro
+TIM1_ETR_ETF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	698;"	macro
+TIM1_ETR_ETP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	695;"	macro
+TIM1_ETR_ETPS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	697;"	macro
+TIM1_ETR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	640;"	macro
+TIM1_IER_BIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	700;"	macro
+TIM1_IER_CC1IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	706;"	macro
+TIM1_IER_CC2IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	705;"	macro
+TIM1_IER_CC3IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	704;"	macro
+TIM1_IER_CC4IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	703;"	macro
+TIM1_IER_COMIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	702;"	macro
+TIM1_IER_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	641;"	macro
+TIM1_IER_TIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	701;"	macro
+TIM1_IER_UIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	707;"	macro
+TIM1_OISR_OIS1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	798;"	macro
+TIM1_OISR_OIS1N	libraries\stm8s_stdperiph_driver\inc\stm8s.h	797;"	macro
+TIM1_OISR_OIS2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	796;"	macro
+TIM1_OISR_OIS2N	libraries\stm8s_stdperiph_driver\inc\stm8s.h	795;"	macro
+TIM1_OISR_OIS3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	794;"	macro
+TIM1_OISR_OIS3N	libraries\stm8s_stdperiph_driver\inc\stm8s.h	793;"	macro
+TIM1_OISR_OIS4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	792;"	macro
+TIM1_OISR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	668;"	macro
+TIM1_PSCH_PSC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	761;"	macro
+TIM1_PSCL_PSC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	763;"	macro
+TIM1_PSCRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	653;"	macro
+TIM1_PSCRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	654;"	macro
+TIM1_RCR_REP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	768;"	macro
+TIM1_RCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	657;"	macro
+TIM1_SMCR_MSM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	691;"	macro
+TIM1_SMCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	639;"	macro
+TIM1_SMCR_SMS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	693;"	macro
+TIM1_SMCR_TS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	692;"	macro
+TIM1_SR1_BIF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	709;"	macro
+TIM1_SR1_CC1IF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	715;"	macro
+TIM1_SR1_CC2IF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	714;"	macro
+TIM1_SR1_CC3IF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	713;"	macro
+TIM1_SR1_CC4IF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	712;"	macro
+TIM1_SR1_COMIF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	711;"	macro
+TIM1_SR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	642;"	macro
+TIM1_SR1_TIF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	710;"	macro
+TIM1_SR1_UIF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	716;"	macro
+TIM1_SR2_CC1OF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	721;"	macro
+TIM1_SR2_CC2OF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	720;"	macro
+TIM1_SR2_CC3OF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	719;"	macro
+TIM1_SR2_CC4OF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	718;"	macro
+TIM1_SR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	643;"	macro
+TIM1_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	631;"	typedef	typeref:struct:TIM1_struct
+TIM1_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	596;"	struct
+TIM2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2566;"	macro
+TIM2_ARRH_ARR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	916;"	macro
+TIM2_ARRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	855;"	macro
+TIM2_ARRL_ARR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	917;"	macro
+TIM2_ARRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	856;"	macro
+TIM2_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2470;"	macro
+TIM2_CCER1_CC1E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	906;"	macro
+TIM2_CCER1_CC1P	libraries\stm8s_stdperiph_driver\inc\stm8s.h	905;"	macro
+TIM2_CCER1_CC2E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	904;"	macro
+TIM2_CCER1_CC2P	libraries\stm8s_stdperiph_driver\inc\stm8s.h	903;"	macro
+TIM2_CCER1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	850;"	macro
+TIM2_CCER2_CC3E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	909;"	macro
+TIM2_CCER2_CC3P	libraries\stm8s_stdperiph_driver\inc\stm8s.h	908;"	macro
+TIM2_CCER2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	851;"	macro
+TIM2_CCMR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	847;"	macro
+TIM2_CCMR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	848;"	macro
+TIM2_CCMR3_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	849;"	macro
+TIM2_CCMR_CCxS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	901;"	macro
+TIM2_CCMR_ICxF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	898;"	macro
+TIM2_CCMR_ICxPSC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	897;"	macro
+TIM2_CCMR_OCM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	899;"	macro
+TIM2_CCMR_OCxPE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	900;"	macro
+TIM2_CCR1H_CCR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	919;"	macro
+TIM2_CCR1H_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	857;"	macro
+TIM2_CCR1L_CCR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	920;"	macro
+TIM2_CCR1L_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	858;"	macro
+TIM2_CCR2H_CCR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	922;"	macro
+TIM2_CCR2H_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	859;"	macro
+TIM2_CCR2L_CCR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	923;"	macro
+TIM2_CCR2L_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	860;"	macro
+TIM2_CCR3H_CCR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	925;"	macro
+TIM2_CCR3H_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	861;"	macro
+TIM2_CCR3L_CCR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	926;"	macro
+TIM2_CCR3L_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	862;"	macro
+TIM2_CNTRH_CNT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	911;"	macro
+TIM2_CNTRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	852;"	macro
+TIM2_CNTRL_CNT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	912;"	macro
+TIM2_CNTRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	853;"	macro
+TIM2_CR1_ARPE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	872;"	macro
+TIM2_CR1_CEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	876;"	macro
+TIM2_CR1_OPM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	873;"	macro
+TIM2_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	842;"	macro
+TIM2_CR1_UDIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	875;"	macro
+TIM2_CR1_URS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	874;"	macro
+TIM2_EGR_CC1G	libraries\stm8s_stdperiph_driver\inc\stm8s.h	894;"	macro
+TIM2_EGR_CC2G	libraries\stm8s_stdperiph_driver\inc\stm8s.h	893;"	macro
+TIM2_EGR_CC3G	libraries\stm8s_stdperiph_driver\inc\stm8s.h	892;"	macro
+TIM2_EGR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	846;"	macro
+TIM2_EGR_UG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	895;"	macro
+TIM2_IER_CC1IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	880;"	macro
+TIM2_IER_CC2IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	879;"	macro
+TIM2_IER_CC3IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	878;"	macro
+TIM2_IER_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	843;"	macro
+TIM2_IER_UIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	881;"	macro
+TIM2_PSCR_PSC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	914;"	macro
+TIM2_PSCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	854;"	macro
+TIM2_SR1_CC1IF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	885;"	macro
+TIM2_SR1_CC2IF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	884;"	macro
+TIM2_SR1_CC3IF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	883;"	macro
+TIM2_SR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	844;"	macro
+TIM2_SR1_UIF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	886;"	macro
+TIM2_SR2_CC1OF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	890;"	macro
+TIM2_SR2_CC2OF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	889;"	macro
+TIM2_SR2_CC3OF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	888;"	macro
+TIM2_SR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	845;"	macro
+TIM2_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	836;"	typedef	typeref:struct:TIM2_struct
+TIM2_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	808;"	struct
+TIM3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2571;"	macro
+TIM3_ARRH_ARR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1025;"	macro
+TIM3_ARRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	973;"	macro
+TIM3_ARRL_ARR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1026;"	macro
+TIM3_ARRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	974;"	macro
+TIM3_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2471;"	macro
+TIM3_CCER1_CC1E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1018;"	macro
+TIM3_CCER1_CC1P	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1017;"	macro
+TIM3_CCER1_CC2E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1016;"	macro
+TIM3_CCER1_CC2P	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1015;"	macro
+TIM3_CCER1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	969;"	macro
+TIM3_CCMR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	967;"	macro
+TIM3_CCMR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	968;"	macro
+TIM3_CCMR_CCxS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1013;"	macro
+TIM3_CCMR_ICxF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1010;"	macro
+TIM3_CCMR_ICxPSC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1009;"	macro
+TIM3_CCMR_OCM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1011;"	macro
+TIM3_CCMR_OCxPE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1012;"	macro
+TIM3_CCR1H_CCR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1028;"	macro
+TIM3_CCR1H_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	975;"	macro
+TIM3_CCR1L_CCR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1029;"	macro
+TIM3_CCR1L_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	976;"	macro
+TIM3_CCR2H_CCR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1031;"	macro
+TIM3_CCR2H_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	977;"	macro
+TIM3_CCR2L_CCR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1032;"	macro
+TIM3_CCR2L_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	978;"	macro
+TIM3_CNTRH_CNT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1020;"	macro
+TIM3_CNTRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	970;"	macro
+TIM3_CNTRL_CNT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1021;"	macro
+TIM3_CNTRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	971;"	macro
+TIM3_CR1_ARPE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	988;"	macro
+TIM3_CR1_CEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	992;"	macro
+TIM3_CR1_OPM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	989;"	macro
+TIM3_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	962;"	macro
+TIM3_CR1_UDIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	991;"	macro
+TIM3_CR1_URS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	990;"	macro
+TIM3_EGR_CC1G	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1006;"	macro
+TIM3_EGR_CC2G	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1005;"	macro
+TIM3_EGR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	966;"	macro
+TIM3_EGR_UG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1007;"	macro
+TIM3_IER_CC1IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	995;"	macro
+TIM3_IER_CC2IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	994;"	macro
+TIM3_IER_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	963;"	macro
+TIM3_IER_UIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	996;"	macro
+TIM3_PSCR_PSC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1023;"	macro
+TIM3_PSCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	972;"	macro
+TIM3_SR1_CC1IF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	999;"	macro
+TIM3_SR1_CC2IF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	998;"	macro
+TIM3_SR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	964;"	macro
+TIM3_SR1_UIF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1000;"	macro
+TIM3_SR2_CC1OF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1003;"	macro
+TIM3_SR2_CC2OF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1002;"	macro
+TIM3_SR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	965;"	macro
+TIM3_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	956;"	typedef	typeref:struct:TIM3_struct
+TIM3_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	936;"	struct
+TIM4	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2577;"	macro
+TIM4_ARR_ARR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1094;"	macro
+TIM4_ARR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1068;"	macro
+TIM4_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2472;"	macro
+TIM4_CNTR_CNT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1090;"	macro
+TIM4_CNTR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1066;"	macro
+TIM4_CR1_ARPE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1078;"	macro
+TIM4_CR1_CEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1082;"	macro
+TIM4_CR1_OPM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1079;"	macro
+TIM4_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1062;"	macro
+TIM4_CR1_UDIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1081;"	macro
+TIM4_CR1_URS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1080;"	macro
+TIM4_EGR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1065;"	macro
+TIM4_EGR_UG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1088;"	macro
+TIM4_IER_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1063;"	macro
+TIM4_IER_UIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1084;"	macro
+TIM4_PSCR_PSC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1092;"	macro
+TIM4_PSCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1067;"	macro
+TIM4_SR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1064;"	macro
+TIM4_SR1_UIF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1086;"	macro
+TIM4_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1056;"	typedef	typeref:struct:TIM4_struct
+TIM4_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1042;"	struct
+TIM5	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2581;"	macro
+TIM5_ARRH_ARR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1222;"	macro
+TIM5_ARRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1151;"	macro
+TIM5_ARRL_ARR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1223;"	macro
+TIM5_ARRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1152;"	macro
+TIM5_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2473;"	macro
+TIM5_CCER1_CC1E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1212;"	macro
+TIM5_CCER1_CC1P	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1211;"	macro
+TIM5_CCER1_CC2E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1210;"	macro
+TIM5_CCER1_CC2P	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1209;"	macro
+TIM5_CCER1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1146;"	macro
+TIM5_CCER2_CC3E	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1215;"	macro
+TIM5_CCER2_CC3P	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1214;"	macro
+TIM5_CCER2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1147;"	macro
+TIM5_CCMR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1143;"	macro
+TIM5_CCMR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1144;"	macro
+TIM5_CCMR3_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1145;"	macro
+TIM5_CCMR_CCxS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1207;"	macro
+TIM5_CCMR_ICxF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1204;"	macro
+TIM5_CCMR_ICxPSC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1203;"	macro
+TIM5_CCMR_OCM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1205;"	macro
+TIM5_CCMR_OCxPE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1206;"	macro
+TIM5_CCMR_TIxDirect_Set	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1234;"	macro
+TIM5_CCR1H_CCR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1225;"	macro
+TIM5_CCR1H_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1153;"	macro
+TIM5_CCR1L_CCR1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1226;"	macro
+TIM5_CCR1L_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1154;"	macro
+TIM5_CCR2H_CCR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1228;"	macro
+TIM5_CCR2H_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1155;"	macro
+TIM5_CCR2L_CCR2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1229;"	macro
+TIM5_CCR2L_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1156;"	macro
+TIM5_CCR3H_CCR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1231;"	macro
+TIM5_CCR3H_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1157;"	macro
+TIM5_CCR3L_CCR3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1232;"	macro
+TIM5_CCR3L_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1158;"	macro
+TIM5_CNTRH_CNT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1217;"	macro
+TIM5_CNTRH_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1148;"	macro
+TIM5_CNTRL_CNT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1218;"	macro
+TIM5_CNTRL_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1149;"	macro
+TIM5_CR1_ARPE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1168;"	macro
+TIM5_CR1_CEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1172;"	macro
+TIM5_CR1_OPM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1169;"	macro
+TIM5_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1136;"	macro
+TIM5_CR1_UDIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1171;"	macro
+TIM5_CR1_URS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1170;"	macro
+TIM5_CR2_MMS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1175;"	macro
+TIM5_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1137;"	macro
+TIM5_CR2_TI1S	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1174;"	macro
+TIM5_EGR_CC1G	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1200;"	macro
+TIM5_EGR_CC2G	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1199;"	macro
+TIM5_EGR_CC3G	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1198;"	macro
+TIM5_EGR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1142;"	macro
+TIM5_EGR_TG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1197;"	macro
+TIM5_EGR_UG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1201;"	macro
+TIM5_IER_CC1IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1184;"	macro
+TIM5_IER_CC2IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1183;"	macro
+TIM5_IER_CC3IE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1182;"	macro
+TIM5_IER_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1139;"	macro
+TIM5_IER_TIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1181;"	macro
+TIM5_IER_UIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1185;"	macro
+TIM5_PSCR_PSC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1220;"	macro
+TIM5_PSCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1150;"	macro
+TIM5_SMCR_MSM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1177;"	macro
+TIM5_SMCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1138;"	macro
+TIM5_SMCR_SMS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1179;"	macro
+TIM5_SMCR_TS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1178;"	macro
+TIM5_SR1_CC1IF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1190;"	macro
+TIM5_SR1_CC2IF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1189;"	macro
+TIM5_SR1_CC3IF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1188;"	macro
+TIM5_SR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1140;"	macro
+TIM5_SR1_TIF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1187;"	macro
+TIM5_SR1_UIF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1191;"	macro
+TIM5_SR2_CC1OF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1195;"	macro
+TIM5_SR2_CC2OF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1194;"	macro
+TIM5_SR2_CC3OF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1193;"	macro
+TIM5_SR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1141;"	macro
+TIM5_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1130;"	typedef	typeref:struct:TIM5_struct
+TIM5_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1105;"	struct
+TIM6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2582;"	macro
+TIM6_ARR_ARR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1303;"	macro
+TIM6_ARR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1268;"	macro
+TIM6_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2474;"	macro
+TIM6_CNTR_CNT	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1299;"	macro
+TIM6_CNTR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1266;"	macro
+TIM6_CR1_ARPE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1278;"	macro
+TIM6_CR1_CEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1282;"	macro
+TIM6_CR1_OPM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1279;"	macro
+TIM6_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1260;"	macro
+TIM6_CR1_UDIS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1281;"	macro
+TIM6_CR1_URS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1280;"	macro
+TIM6_CR2_MMS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1284;"	macro
+TIM6_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1261;"	macro
+TIM6_EGR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1265;"	macro
+TIM6_EGR_TG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1296;"	macro
+TIM6_EGR_UG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1297;"	macro
+TIM6_IER_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1263;"	macro
+TIM6_IER_TIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1290;"	macro
+TIM6_IER_UIE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1291;"	macro
+TIM6_PSCR_PSC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1301;"	macro
+TIM6_PSCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1267;"	macro
+TIM6_SMCR_MSM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1286;"	macro
+TIM6_SMCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1262;"	macro
+TIM6_SMCR_SMS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1288;"	macro
+TIM6_SMCR_TS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1287;"	macro
+TIM6_SR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1264;"	macro
+TIM6_SR1_TIF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1293;"	macro
+TIM6_SR1_UIF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1294;"	macro
+TIM6_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1256;"	typedef	typeref:struct:TIM6_struct
+TIM6_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1244;"	struct
+TINY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	114;"	macro
+TINY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	120;"	macro
+TINY	libraries\stm8s_stdperiph_driver\inc\stm8s.h	134;"	macro
+TPR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2055;"	member	struct:__anon5
+TRISER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1327;"	member	struct:I2C_struct
+TRUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	219;"	enumerator	enum:__anon1
+TSR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2054;"	member	struct:__anon5
+TXCRCR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1689;"	member	struct:SPI_struct
+TxMailbox	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2082;"	member	union:__anon5::__anon6	typeref:struct:__anon5::__anon6::__anon7
+U16_MAX	libraries\stm8s_stdperiph_driver\inc\stm8s.h	231;"	macro
+U32_MAX	libraries\stm8s_stdperiph_driver\inc\stm8s.h	234;"	macro
+U8_MAX	libraries\stm8s_stdperiph_driver\inc\stm8s.h	228;"	macro
+UART1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2549;"	macro
+UART1_BRR1_DIVM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1799;"	macro
+UART1_BRR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1772;"	macro
+UART1_BRR2_DIVF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1802;"	macro
+UART1_BRR2_DIVM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1801;"	macro
+UART1_BRR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1773;"	macro
+UART1_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2466;"	macro
+UART1_CR1_M	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1807;"	macro
+UART1_CR1_PCEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1809;"	macro
+UART1_CR1_PIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1811;"	macro
+UART1_CR1_PS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1810;"	macro
+UART1_CR1_R8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1804;"	macro
+UART1_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1774;"	macro
+UART1_CR1_T8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1805;"	macro
+UART1_CR1_UARTD	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1806;"	macro
+UART1_CR1_WAKE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1808;"	macro
+UART1_CR2_ILIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1816;"	macro
+UART1_CR2_REN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1818;"	macro
+UART1_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1775;"	macro
+UART1_CR2_RIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1815;"	macro
+UART1_CR2_RWU	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1819;"	macro
+UART1_CR2_SBK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1820;"	macro
+UART1_CR2_TCIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1814;"	macro
+UART1_CR2_TEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1817;"	macro
+UART1_CR2_TIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1813;"	macro
+UART1_CR3_CKEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1824;"	macro
+UART1_CR3_CPHA	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1826;"	macro
+UART1_CR3_CPOL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1825;"	macro
+UART1_CR3_LBCL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1827;"	macro
+UART1_CR3_LINEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1822;"	macro
+UART1_CR3_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1776;"	macro
+UART1_CR3_STOP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1823;"	macro
+UART1_CR4_ADD	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1832;"	macro
+UART1_CR4_LBDF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1831;"	macro
+UART1_CR4_LBDIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1829;"	macro
+UART1_CR4_LBDL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1830;"	macro
+UART1_CR4_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1777;"	macro
+UART1_CR5_HDSEL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1836;"	macro
+UART1_CR5_IREN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1838;"	macro
+UART1_CR5_IRLP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1837;"	macro
+UART1_CR5_NACK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1835;"	macro
+UART1_CR5_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1778;"	macro
+UART1_CR5_SCEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1834;"	macro
+UART1_GTR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1779;"	macro
+UART1_PSCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1780;"	macro
+UART1_SR_FE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1796;"	macro
+UART1_SR_IDLE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1793;"	macro
+UART1_SR_NF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1795;"	macro
+UART1_SR_OR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1794;"	macro
+UART1_SR_PE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1797;"	macro
+UART1_SR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1771;"	macro
+UART1_SR_RXNE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1792;"	macro
+UART1_SR_TC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1791;"	macro
+UART1_SR_TXE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1790;"	macro
+UART1_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1765;"	typedef	typeref:struct:UART1_struct
+UART1_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1751;"	struct
+UART2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2553;"	macro
+UART2_BRR1_DIVM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1899;"	macro
+UART2_BRR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1871;"	macro
+UART2_BRR2_DIVF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1902;"	macro
+UART2_BRR2_DIVM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1901;"	macro
+UART2_BRR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1872;"	macro
+UART2_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2467;"	macro
+UART2_CR1_M	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1907;"	macro
+UART2_CR1_PCEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1909;"	macro
+UART2_CR1_PIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1911;"	macro
+UART2_CR1_PS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1910;"	macro
+UART2_CR1_R8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1904;"	macro
+UART2_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1873;"	macro
+UART2_CR1_T8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1905;"	macro
+UART2_CR1_UARTD	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1906;"	macro
+UART2_CR1_WAKE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1908;"	macro
+UART2_CR2_ILIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1916;"	macro
+UART2_CR2_REN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1918;"	macro
+UART2_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1874;"	macro
+UART2_CR2_RIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1915;"	macro
+UART2_CR2_RWU	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1919;"	macro
+UART2_CR2_SBK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1920;"	macro
+UART2_CR2_TCIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1914;"	macro
+UART2_CR2_TEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1917;"	macro
+UART2_CR2_TIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1913;"	macro
+UART2_CR3_CKEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1924;"	macro
+UART2_CR3_CPHA	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1926;"	macro
+UART2_CR3_CPOL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1925;"	macro
+UART2_CR3_LBCL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1927;"	macro
+UART2_CR3_LINEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1922;"	macro
+UART2_CR3_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1875;"	macro
+UART2_CR3_STOP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1923;"	macro
+UART2_CR4_ADD	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1932;"	macro
+UART2_CR4_LBDF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1931;"	macro
+UART2_CR4_LBDIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1929;"	macro
+UART2_CR4_LBDL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1930;"	macro
+UART2_CR4_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1876;"	macro
+UART2_CR5_HDSEL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1936;"	macro
+UART2_CR5_IREN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1938;"	macro
+UART2_CR5_IRLP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1937;"	macro
+UART2_CR5_NACK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1935;"	macro
+UART2_CR5_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1877;"	macro
+UART2_CR5_SCEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1934;"	macro
+UART2_CR6_LASE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1942;"	macro
+UART2_CR6_LDUM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1940;"	macro
+UART2_CR6_LHDF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1944;"	macro
+UART2_CR6_LHDIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1943;"	macro
+UART2_CR6_LSF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1945;"	macro
+UART2_CR6_LSLV	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1941;"	macro
+UART2_CR6_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1878;"	macro
+UART2_GTR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1879;"	macro
+UART2_PSCR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1880;"	macro
+UART2_SR_FE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1896;"	macro
+UART2_SR_IDLE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1893;"	macro
+UART2_SR_NF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1895;"	macro
+UART2_SR_OR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1894;"	macro
+UART2_SR_PE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1897;"	macro
+UART2_SR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1870;"	macro
+UART2_SR_RXNE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1892;"	macro
+UART2_SR_TC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1891;"	macro
+UART2_SR_TXE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1890;"	macro
+UART2_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1864;"	typedef	typeref:struct:UART2_struct
+UART2_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1849;"	struct
+UART3	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2558;"	macro
+UART3_BRR1_DIVM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2002;"	macro
+UART3_BRR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1977;"	macro
+UART3_BRR2_DIVF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2005;"	macro
+UART3_BRR2_DIVM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2004;"	macro
+UART3_BRR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1978;"	macro
+UART3_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2468;"	macro
+UART3_CR1_M	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2010;"	macro
+UART3_CR1_PCEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2012;"	macro
+UART3_CR1_PIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2014;"	macro
+UART3_CR1_PS	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2013;"	macro
+UART3_CR1_R8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2007;"	macro
+UART3_CR1_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1979;"	macro
+UART3_CR1_T8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2008;"	macro
+UART3_CR1_UARTD	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2009;"	macro
+UART3_CR1_WAKE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2011;"	macro
+UART3_CR2_ILIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2019;"	macro
+UART3_CR2_REN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2021;"	macro
+UART3_CR2_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1980;"	macro
+UART3_CR2_RIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2018;"	macro
+UART3_CR2_RWU	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2022;"	macro
+UART3_CR2_SBK	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2023;"	macro
+UART3_CR2_TCIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2017;"	macro
+UART3_CR2_TEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2020;"	macro
+UART3_CR2_TIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2016;"	macro
+UART3_CR3_LINEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2025;"	macro
+UART3_CR3_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1981;"	macro
+UART3_CR3_STOP	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2026;"	macro
+UART3_CR4_ADD	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2031;"	macro
+UART3_CR4_LBDF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2030;"	macro
+UART3_CR4_LBDIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2028;"	macro
+UART3_CR4_LBDL	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2029;"	macro
+UART3_CR4_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1982;"	macro
+UART3_CR6_LASE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2035;"	macro
+UART3_CR6_LDUM	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2033;"	macro
+UART3_CR6_LHDF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2037;"	macro
+UART3_CR6_LHDIEN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2036;"	macro
+UART3_CR6_LSF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2038;"	macro
+UART3_CR6_LSLV	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2034;"	macro
+UART3_CR6_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1983;"	macro
+UART3_SR_FE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1999;"	macro
+UART3_SR_IDLE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1996;"	macro
+UART3_SR_NF	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1998;"	macro
+UART3_SR_OR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1997;"	macro
+UART3_SR_PE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2000;"	macro
+UART3_SR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1976;"	macro
+UART3_SR_RXNE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1995;"	macro
+UART3_SR_TC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1994;"	macro
+UART3_SR_TXE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1993;"	macro
+UART3_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1970;"	typedef	typeref:struct:UART3_struct
+UART3_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1957;"	struct
+USE_STDPERIPH_DRIVER	libraries\stm8s_stdperiph_driver\inc\stm8s.h	86;"	macro
+VECTOR_ID	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2644;"	macro
+ValBit	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2683;"	macro
+WR	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1620;"	member	struct:WWDG_struct
+WWDG	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2541;"	macro
+WWDG_BaseAddress	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2460;"	macro
+WWDG_CR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1628;"	macro
+WWDG_CR_T	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1641;"	macro
+WWDG_CR_T6	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1640;"	macro
+WWDG_CR_WDGA	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1639;"	macro
+WWDG_TypeDef	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1622;"	typedef	typeref:struct:WWDG_struct
+WWDG_WR_MSB	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1643;"	macro
+WWDG_WR_RESET_VALUE	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1629;"	macro
+WWDG_WR_W	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1644;"	macro
+WWDG_struct	libraries\stm8s_stdperiph_driver\inc\stm8s.h	1617;"	struct
+_COSMIC_	libraries\stm8s_stdperiph_driver\inc\stm8s.h	73;"	macro
+_IAR_	libraries\stm8s_stdperiph_driver\inc\stm8s.h	77;"	macro
+_RAISONANCE_	libraries\stm8s_stdperiph_driver\inc\stm8s.h	75;"	macro
+__I	libraries\stm8s_stdperiph_driver\inc\stm8s.h	194;"	macro
+__IO	libraries\stm8s_stdperiph_driver\inc\stm8s.h	196;"	macro
+__MODS0__	..\..\..\..\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\mods0.h	12;"	macro
+__O	libraries\stm8s_stdperiph_driver\inc\stm8s.h	195;"	macro
+__STM8S_CLK_H	libraries\stm8s_stdperiph_driver\inc\stm8s_clk.h	25;"	macro
+__STM8S_CONF_H	libraries\stm8s_stdperiph_driver\inc\stm8s_conf.h	2;"	macro
+__STM8S_GPIO_H	libraries\stm8s_stdperiph_driver\inc\stm8s_gpio.h	24;"	macro
+__STM8S_H	libraries\stm8s_stdperiph_driver\inc\stm8s.h	24;"	macro
+__STM8S_STDPERIPH_VERSION	libraries\stm8s_stdperiph_driver\inc\stm8s.h	174;"	macro
+__STM8S_STDPERIPH_VERSION_MAIN	libraries\stm8s_stdperiph_driver\inc\stm8s.h	170;"	macro
+__STM8S_STDPERIPH_VERSION_RC	libraries\stm8s_stdperiph_driver\inc\stm8s.h	173;"	macro
+__STM8S_STDPERIPH_VERSION_SUB1	libraries\stm8s_stdperiph_driver\inc\stm8s.h	171;"	macro
+__STM8S_STDPERIPH_VERSION_SUB2	libraries\stm8s_stdperiph_driver\inc\stm8s.h	172;"	macro
+_stext	stm8_interrupt_vector.c	20;"	prototype	file:
+_vectab	stm8_interrupt_vector.c	22;"	variable
+bool	libraries\stm8s_stdperiph_driver\inc\stm8s.h	219;"	typedef	typeref:enum:__anon1
+delay_ms	main.c	4;"	function	signature:(uint32_t ms)
+disableInterrupts	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2602;"	macro
+disableInterrupts	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2611;"	macro
+disableInterrupts	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2621;"	macro
+enableInterrupts	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2601;"	macro
+enableInterrupts	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2610;"	macro
+enableInterrupts	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2620;"	macro
+halt	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2608;"	macro
+halt	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2617;"	macro
+halt	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2627;"	macro
+int16_t	libraries\stm8s_stdperiph_driver\inc\stm8s.h	200;"	typedef
+int32_t	libraries\stm8s_stdperiph_driver\inc\stm8s.h	201;"	typedef
+int8_t	libraries\stm8s_stdperiph_driver\inc\stm8s.h	199;"	typedef
+interrupt_handler	stm8_interrupt_vector.c	9;"	member	struct:interrupt_vector	file:
+interrupt_handler_t	stm8_interrupt_vector.c	5;"	typedef	file:
+interrupt_instruction	stm8_interrupt_vector.c	8;"	member	struct:interrupt_vector	file:
+interrupt_vector	stm8_interrupt_vector.c	7;"	struct	file:
+main	main.c	11;"	function	signature:(void)
+nop	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2605;"	macro
+nop	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2614;"	macro
+nop	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2624;"	macro
+rim	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2603;"	macro
+rim	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2612;"	macro
+rim	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2622;"	macro
+s16	libraries\stm8s_stdperiph_driver\inc\stm8s.h	211;"	typedef
+s32	libraries\stm8s_stdperiph_driver\inc\stm8s.h	210;"	typedef
+s8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	212;"	typedef
+sim	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2604;"	macro
+sim	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2613;"	macro
+sim	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2623;"	macro
+trap	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2606;"	macro
+trap	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2615;"	macro
+trap	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2625;"	macro
+u16	libraries\stm8s_stdperiph_driver\inc\stm8s.h	215;"	typedef
+u32	libraries\stm8s_stdperiph_driver\inc\stm8s.h	214;"	typedef
+u8	libraries\stm8s_stdperiph_driver\inc\stm8s.h	216;"	typedef
+uint16_t	libraries\stm8s_stdperiph_driver\inc\stm8s.h	205;"	typedef
+uint32_t	libraries\stm8s_stdperiph_driver\inc\stm8s.h	206;"	typedef
+uint8_t	libraries\stm8s_stdperiph_driver\inc\stm8s.h	204;"	typedef
+wfi	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2607;"	macro
+wfi	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2616;"	macro
+wfi	libraries\stm8s_stdperiph_driver\inc\stm8s.h	2626;"	macro
